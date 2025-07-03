@@ -1,0 +1,110 @@
+\begin{thebibliography}{60}
+
+\bibitem{AC-LGAD} Z. Ye and S. Yano, "Barrel and Forward TOF: AC-LGAD," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland} [online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431820/attachments/2691416/4671529/yezhenyu_ePIC_20230728.pdf}. [Accessed: 02-Mar-2024].
+
+\bibitem{AC-LGAD_prototype} K. Nakamura, S. Kita, T. Ueda, K Hara and H. Suzuki, "First Prototype of Finely Segmented HPK AC-LGAD Detectors," in \textit{Proc. of the 29th International Workshop on Vertex Detectors, October 5-8, 202, Tsukuba, Japan}. [Online]. Available: \url{https://journals.jps.jp/doi/abs/10.7566/JPSCP.34.010016}. [Accessed: 02-Jun-2024].
+
+\bibitem{ALICE_MAPS} O. Groettvik (for the ALICE collaboration), "ALICE ITS3: a bent stitched MAPS-based vertex detector," \textit{Journal of Instrumentation}, vol. 19, (2), pp. C02048, 2024. [Online] Available: \url{http://dx.doi.org/10.1088/1748-0221/19/02/C02048}. [Accessed: 02-Mar-2024]. 
+
+\bibitem{auger} A. Aab et al., "The Pierre Auger Cosmic Ray Observatory," in \textit{Nuclear Instruments & Methods in Physics Research. Section A, Accelerators, Spectrometers, Detectors and Associated Equipment}, vol. 798, (C), pp. 172-213, 2015.
+
+\bibitem{backward_ECal} C. M. Camacho, "Backward ECal DSC," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431947/attachments/2691948/4671629/BackECAL_DSC.pdf}. [Accessed: 29-Dec-2023].
+
+\bibitem{backward_HCal} L. Kosarzewski, "Backward Hadronic Calorimeter DSC report," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431982/attachments/2692238/4672272/ePIC_nHCal_LK_2023.7.29.pdf}. [Accessed: 29-Dec-2023].
+
+\bibitem{barrel_ECal} M. \.Zurek, "The Imaging Barrel Electromagnetic Calorimeter," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431950/attachments/2691871/4671467/ePIC-July-WAW-%20Zurek.pdf}. [Accessed: 01-Mar-2024].
+
+\bibitem{barrel_HCal} J. Lajoie, "ePIC Barrel Hcal DSC Status," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431984/attachments/2692321/4672270/3%20lajoie%20ePIC%20Barrel%20HCal%20DSC%20rev1.pdf}. [Accessed: 29-Feb-2024].
+
+\bibitem{CDR} U.S. Department of Energy, "Electron Ion Collider Conceptual Design Report 2021," \textit{technical report}, 2021. [Online] Available: \url{https://doi.org/10.2172/1765663}. [Accessed: 05-Apr-2024].
+
+\bibitem{DD4hepManual} M. Frank, F. Gaede, M. Petric and A. Sailer, "DD4hep User Manual," July 24, 2024. [Online] Available: \url{https://dd4hep.web.cern.ch/dd4hep/usermanuals/DD4hepManual/DD4hepManual.pdf}. [Accessed: 02-Jun-2024].
+
+\bibitem{dd4hep} M. Frank, F. Gaede, M. Petric and A. Sailer, "DD4hep webpage" \textit{dd4hep.web.cern.ch}, 2023. [Online] Available: \url{https://dd4hep.web.cern.ch/}. [Accessed: 02-May-2024].
+
+\bibitem{dRICH} R. Preghenella, "dRICH status," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431254/attachments/2691764/4671367/3%20%5B20230728%5D%5BePIC%5D%5BdRICH%5D%20Collaboration%20Meeting.pdf}. [Accessed: 29-Dec-2023].
+
+\bibitem{ECCE} A. Bylinkin et al., "Detector requirements and simulation results for the EIC exclusive, diffractive and tagging physics program using the ECCE detector concept," \textit{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}, vol. 1052, a. 168238, July 2023. [Online] Available: \url{https://doi.org/10.1016/j.nima.2023.168238}. [Accessed: 17-Jun-2024].
+
+\bibitem{eicpage_github} EIC User Group and ePIC Collaboration, "Main portal to EIC software," 2023. [Online] Available: \url{https://eic.github.io/}. [Accessed: 23-May-2024].
+
+\bibitem{eicrecon_page} "EICrecon webpage," [Online]. Available: \url{https://eic.github.io/}. [Accessed: 23-May-2024].
+
+\bibitem{energy_resolution} R. M. Brown and D. J. A. Cockerill, "Electromagnetic calorimetry," \textit{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}, vol. 666, pp. 47-79, February 2012. [Online]. Available: \url{https://doi.org/10.1016/j.nima.2011.03.017}. [Accessed: 12-Apr-2024].
+
+\bibitem{forward_ECal} W. Ma, "ePIC Forward ECal: Status and Plan," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431953/attachments/2691840/4671391/ePIC-Forward_Ecal%20for%20EICUG.pdf}. [Accessed: 01-Mar-2024].
+
+\bibitem{full_EIC} Brookhaven National Laboratory, "Electron-Ion Collider Schematic," \textit{flickr.com}, April 3, 2022. [Online]. Available: \url{https://flic.kr/p/2nchaX8}. [Accessed: 01-Mar-2024].
+
+\bibitem{gaseous} F. Boss\`u, "DSC – Gaseous trackers," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431809/attachments/2691158/4670055/3%20ePIC_MPGD_DSC_July2023.pdf}. [Accessed: 02-Mar-2024].
+
+\bibitem{grupen_particle-detectors} C. Grupen and B. A. Shwartz, \textit{Particle Detectors}. 2nd ed. Cambridge: Cambridge University Press, 2008.
+
+\bibitem{grupen_wigmans} R. Wigmans, "Calorimetry," in \textit{Handbook of Particle Detection and Imaging}, C. Grupen and I. Buvat, Eds. Berlin, Heidelberg: Springer, 2012, pp. 497-517. [Online]. Available: \url{https://doi.org/10.1007/978-3-642-13271-1_20}. [Accessed: 12-Apr-2024].
+
+\bibitem{hanagaki} K. Hanagaki, J. Tanaka, M. Tomoto and Y. Yamazaki, "Particle Identification," in \textit{Experimental Techniques in Modern High-Energy Physics: A Beginner‘s Guide}, K. Hanagaki, J. Tanaka, M. Tomoto and Y. Yamazaki, Eds. Tokyo: Springer. 2022, pp. 69-114. [Online]. Available: \url{ https://doi.org/10.1007/978-4-431-56931-2_6}. [Accessed: 12-Apr-2024].
+
+\bibitem{hpDIRC} G. Kalicy, "The high-performance DIRC for the ePIC detector at the EIC," \textit{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}, vol. 1062, a. 169168, May 2024. [online]. Available: \url{https://doi.org/10.1016/j.nima.2024.169168}. [Accessed: 30-May-2024].
+
+\bibitem{JANA2} D. Lawrence, A. Boehnlein, N. Brei and D. Romanov, "JANA2: Multithreaded Event Reconstruction," \textit{Journal of Physics: Conference Series}, vol. 1525, a. 012032, 2020. [Online] Available: \url{https://dx.doi.org/10.1088/1742-6596/1525/1/012032}. [Accessed: 02-Jul-2024].
+
+\bibitem{jentsch_ff} A. Jentsch, "Physics Opportunities in the Far-forward Region at the Future Electron–Ion Collider," \textit{Acta Physica Polonica. Series B, Proceedings Supplement}, vol. 16, No. 7, 2023. [Online]. Available: \url{https://doi.org/10.5506/APhysPolBSupp.16.7-A13}. [Accessed: 02-Jun-2024].
+
+\bibitem{jentsch_january} A. Jentsch, "AC-LGAD for the Far-Forward Detectors at the EIC," in \textit{ePIC Collaboration Meeting, January 9-13, 2024, Argonne, U.S.}. [Online]. Available: \url{https://indico.bnl.gov/event/20473/contributions/85117/attachments/51834/88653/ac_lgad_requirements_far_forward_detectors_1_8_2023_v2.pdf}. [Accessed: 06-Jul-2024].
+
+\bibitem{jlab} "EIC System Engineering Data Portal," \textit{eic.jlab.org}, 2024. [Online]. Available: \url{https://eic.jlab.org}. [Accessed: 01-Mar-2024].
+
+\bibitem{knoll_radiation} G. F. Knoll, \textit{Radiation Detection and Measurement}. 4th ed. Hoboken: Wiley, 2010.
+
+\bibitem{lippmann} Ch. Lippmann, "Particle Identification," \textit{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}, vol. 666, pp. 148-172, February 2012. [Online]. Available: \url{https://doi.org/10.1016/j.nima.2011.03.009}. [Accessed: 12-Apr-2024].
+
+\bibitem{livan_calorimetry} M. Livan and R. Wigmans, \textit{Calorimetry for Collider Physics, an Introduction}. Cham: Springer, 2019. 
+
+\bibitem{MARCO} V. Calvelli, "Status of MARCO Solenoid" in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431786/attachments/2691200/4670117/EICUGM%20-%20MARCO%20ePIC%20detector%20solenoid%20Status.pdf}. [Accessed: 02-Mar-2023].
+
+\bibitem{microscope} D. Bardell, "The Invention of the Microscope," \textit{Bios}, vol. 75, no. 2, pp. 78-84, May 2004. [Online]. Available: JSTOR, \url{http://www.jstor.org}. [Accessed: 08-Jul-2024].
+
+\bibitem{oxford:calorimetry} Oxford English Dictionary, "Calorimetry, (n.)." [Online]. Available: \url{https://www.oed.com/dictionary/calorimetry_n}. [Accessed: 30-Mar-2024].
+
+\bibitem{povh_particles} B. Povh, K. Rith, Ch. Scholz, F. Zetsche and M. Lavelle, \textit{Particles and Nuclei: An Introduction to the Physical Concepts}. 6th ed. Berlin, Heidelberg: Springer, 2008.
+
+\bibitem{pfRICH} B. Page, "The ePIC Backward RICH Detector," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland}. [Online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431814/attachments/2691830/4671369/5%20epicUsersMeeting_pfRICH_2023-07_v2.pdf}. [Accessed: 29-Dec-2023].
+
+\bibitem{QCD_HEexp} G. Dissertori, I. G. Knowles and M. Schmelling, \textit{Quantum Chromodynamics: High Energy Experiments and Theory}. Oxford: Oxford University Press, 2009.
+
+\bibitem{quantamagazine} Ch. Wood and M. Sherman, "Inside the Proton, the Most Complicated Thing You Could Possibly Imagine,
+" \textit{Quanta Magazine}, October 19, 2022. [Online]. Available: \url{https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019}. [Accessed: 06-Jul-2024].
+
+\bibitem{quarks_leptons} F. Halzen and A. D. Martin, \textit{Quarks and Leptons: An Introductory Course in Modern Particle Physics}. New York: Wiley, 1991.
+
+\bibitem{science_of_accelerators} R. Appleby, G. Burt, J. Clarke and H. Owen, \textit{The Science and Technology of Particle Accelerators}. Taylor \& Francis, 2020. [Online]. Available: \url{https://library.oapen.org/handle/20.500.12657/53311}. [Accessed: 20-Jun-2024].
+
+\bibitem{SDCC} Brookhaven National Laboratory, "Scientific Data and Computing Center," \textit{sdcc.bnl.gov}, 2024. [Online]. Available: \url{https://www.sdcc.bnl.gov}. [Accessed: 02-Jul-2024]. 
+
+\bibitem{spin} B. Schmookler, "The ePIC detector at the Electron-Ion Collider," in \textit{25th International Spin Symposium, September 24 - 29, 2023, Durham, U.S.}. [Online]. Available: \url{https://indico.jlab.org/event/663/contributions/13449/attachments/10384/15552/epic_spin2023.pdf}. [Accessed: 29-Dec-2023].
+
+\bibitem{SVT} L. Gonella, "ePIC Silicon Vertex Tracker," in \textit{EICUG Meeting 2023, July 23 - 31, 2023, Warsaw, Poland} [online]. Available: \url{https://indico.cern.ch/event/1238718/contributions/5431808/attachments/2691149/4670046/2%20Gonella_20230727-ePIC-SVT-overview.pdf}. [Accessed: 29-Dec-2023].
+
+\bibitem{whitepaper} A. Accardi et al., "Electron-Ion Collider: The next QCD frontier," \textit{The European Physical Journal A}, vol. 52, a. 268, 2016. [Online]. Available: Springer Link, \url{http://www.springer.com} [Accessed: 20-Dec-2023].
+
+\bibitem{wiki} ePIC Collaboration, "ePIC Experiment Wiki," \textit{wiki.bnl.gov}, 2024. [Online]. Available: \url{https://wiki.bnl.gov/EPIC/index.php?title=Main_Page}. [Accessed: 27-Feb-2024].
+
+\bibitem{YR} R. Abdul Khalek et al., "Science Requirements and Detector Concepts for the Electron-Ion Collider: EIC Yellow Report," \textit{Nuclear Physics A}, vol. 1026, a. 122447, October 2021. [Online]. Available: \url{https://doi.org/10.1016/j.nuclphysa.2022.122447}. [Accessed: 20-Dec-2023].
+
+\bibitem{spin-crisis} European Muon Collaboration, "A measurement of the spin asymmetry and determination of the structure function g1 in deep inelastic muon-proton scattering," \textit{Physics Letters B}, vol. 206, no. 2, pp. 364-370, May 1988. [Online]. Available: ScienceDirect, \url{http://www.sciencedirect.com}. [Accessed: 04-Jul-2024].
+
+\bibitem{rhic-spin} E. C. Aschenauer et al., "The RHIC SPIN Program: Achievements and Future Opportunities," 2015. [Online]. Available: arXiv, \url{https://doi.org/10.48550/arXiv.1501.01220}. [Accessed: 05-Jul-2024].
+
+\bibitem{hepmc3} A. Buckley et al., "The HepMC3 event record library for Monte Carlo event generators," \textit{Computer Physics Communications}, vol. 260, a. 107310, March 2021. [Online]. Available: \url{https://doi.org/10.1016/j.cpc.2020.107310}. [Accessed: 02-Jul-2024].
+
+\bibitem{podio} AIDAsoft, "podio GitHub repository," \textit{github.com}, 2024. [Online]. Available: \url{https://github.com/AIDASoft/podio}. [Accessed: 22-Jul-2024].
+
+\bibitem{rhic} Brookhaven National Laboratory, "Relativistic Heavy Ion Collider webpage," \textit{www.bnl.gov}, 2024. [Online]. Available: \url{https://www.bnl.gov/rhic}. [Accessed: 23-Jul-2024].
+
+\bibitem{RHIC-EIC} S. Nagaitsev, "Electron Ion Collider status: Design and construction," in \textit{Electron-Ion Collider Satellite Event at IPAC'24, May 21, 2024, Nashville, TN, U.S.} [Online]. Available: \url{https://indico.jlab.org/event/834/contributions/14240/attachments/11036/16940/IPAC24_EIC_SN.pdf}. [Accessed: 24-Jul-2024].
+
+\bibitem{pdglive} Particle Data Group, "PDG Live," \textit{pdglive.lbl.gov}, 2024. [Online]. Available: \url{https://pdglive.lbl.gov}. [Accessed: 24-Jul-2024].
+
+\bibitem{neutrino_mass} M. Aker et al., "Direct neutrino-mass measurement based on 259 days of KATRIN data," 2024. [Online]. Available: arXiv, \url{https://doi.org/10.48550/arXiv.2406.13516}. [Accessed: 25-Jul-2024].
+
+\end{thebibliography}

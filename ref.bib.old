@@ -1,0 +1,587 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% https://bibdesk.sourceforge.io/
+
+%% Created for Alexander Godál at 2024-04-27 22:56:37 +0200 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+@online{AC-LGAD,
+  author     = {Zhenyu Ye, Satoshi Yano},
+  date       = {2023-07-28},
+  title      = {{Barrel and Forward TOF: AC-LGAD}},
+  url        = {https://indico.cern.ch/event/1238718/contributions/5431820/attachments/2691416/4671529/yezhenyu_ePIC_20230728.pdf},
+  urldate    = {2024-03-02},
+  bdsk-url-1 = {https://indico.cern.ch/event/1238718/contributions/5431820/attachments/2691416/4671529/yezhenyu_ePIC_20230728.pdf}
+}
+
+@inbook{AC-LGAD_prototype,
+  author    = {Koji Nakamura and Sayuka Kita and Tatsuki Ueda and Kazuhiko Hara and Hisanori Suzuki},
+  title     = {First Prototype of Finely Segmented HPK AC-LGAD Detectors},
+  booktitle = {Proceedings of the 29th International Workshop on Vertex Detectors (VERTEX2020)},
+  chapter   = {},
+  pages     = {},
+  doi       = {10.7566/JPSCP.34.010016},
+  url       = {https://journals.jps.jp/doi/abs/10.7566/JPSCP.34.010016},
+  eprint    = {https://journals.jps.jp/doi/pdf/10.7566/JPSCP.34.010016}
+}
+
+@article{ALICE_MAPS,
+  author     = {Groettvik, O.},
+  doi        = {10.1088/1748-0221/19/02/c02048},
+  issn       = {1748-0221},
+  journal    = {Journal of Instrumentation},
+  month      = feb,
+  number     = {02},
+  pages      = {C02048},
+  publisher  = {IOP Publishing},
+  title      = {{ALICE ITS3: a bent stitched MAPS-based vertex detector}},
+  url        = {http://dx.doi.org/10.1088/1748-0221/19/02/C02048},
+  volume     = {19},
+  year       = {2024},
+  bdsk-url-1 = {http://dx.doi.org/10.1088/1748-0221/19/02/C02048}
+}
+
+%% online{hpDIRC,
+ 	author = {Greg Kalicy},
+% 	date = {2023-07-28},
+% 	organization = {{CUA}},
+% 	title = {{The hpDIRC Detector for the ePIC Experiment}},
+% 	url = {https://indico.cern.ch/event/1238718/contributions/5431255/attachments/2691794/4671286/20230728-hpDIRC_DSC-status-Wawa.pdf},
+% 	urldate = {2024-03-01},
+% 	bdsk-url-1 = {https://indico.cern.ch/event/1238718/contributions/5431255/attachments/2691794/4671286/20230728-hpDIRC_DSC-status-Wawa.pdf}}
+
+@article{auger,
+  author     = {{The Pierre Auger Collaboration}},
+  doi        = {https://doi.org/10.1016/j.nima.2015.06.058},
+  issn       = {0168-9002},
+  journal    = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+  pages      = {172-213},
+  title      = {{The Pierre Auger Cosmic Ray Observatory}},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0168900215008086},
+  volume     = {798},
+  year       = {2015},
+  bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0168900215008086},
+  bdsk-url-2 = {https://doi.org/10.1016/j.nima.2015.06.058}
+}
+
+@online{backward_ECal,
+  author       = {Carlos Mu{\~n}oz Camacho},
+  date         = {2023-07-28},
+  organization = {{IJCLab}},
+  title        = {{Backward ECal DSC}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431947/attachments/2691948/4671629/BackECAL_DSC.pdf},
+  urldate      = {2023-12-29},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431947/attachments/2691948/4671629/BackECAL_DSC.pdf}
+}
+
+@online{backward_HCal,
+  author       = {Leszek Kosarzewski},
+  date         = {2023-07-29},
+  organization = {{FNSPE CTU}},
+  title        = {{Backward Hadronic Calorimeter DSC report}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431982/attachments/2692238/4672272/ePIC_nHCal_LK_2023.7.29.pdf},
+  urldate      = {2023-12-29},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431982/attachments/2692238/4672272/ePIC_nHCal_LK_2023.7.29.pdf}
+}
+
+@online{barrel_ECal,
+  author       = {Maria {\.Z}urek},
+  date         = {2023-07-28},
+  organization = {{PHY, Argonne National Laboratory}},
+  title        = {{The Imaging Barrel Electromagnetic Calorimeter}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431950/attachments/2691871/4671467/ePIC-July-WAW-%20Zurek.pdf},
+  urldate      = {2024-03-01},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431950/attachments/2691871/4671467/ePIC-July-WAW-%20Zurek.pdf}
+}
+
+@online{barrel_HCal,
+  author       = {John Lajoie},
+  date         = {2023-07-29},
+  organization = {{Oak Ridge National Laboratory}},
+  title        = {{ePIC Barrel Hcal DSC Status}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431984/attachments/2692321/4672270/3%20lajoie%20ePIC%20Barrel%20HCal%20DSC%20rev1.pdf},
+  urldate      = {2024-02-29},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431984/attachments/2692321/4672270/3%20lajoie%20ePIC%20Barrel%20HCal%20DSC%20rev1.pdf}
+}
+
+@article{CDR,
+    author = "Willeke, Ferdinand",
+    title = "{Electron Ion Collider Conceptual Design Report}",
+    reportNumber = "BNL-221006-2021-FORE",
+    doi = "10.2172/1765663",
+    month = "2",
+    year = "2021"
+} %upraviť!!
+
+@misc{dd4hep,
+  author = {Frank, Markus and Gaede, Frank and Petric, Marko and Sailer, Andre},
+  title  = {AIDASoft/DD4hep},
+  month  = oct,
+  year   = 2018,
+  note   = {webpage: http://dd4hep.cern.ch/},
+  doi    = {10.5281/zenodo.592244},
+  url    = {https://doi.org/10.5281/zenodo.592244}
+}
+
+@online{DD4hepManual,
+  author       = {Frank, Markus and Gaede, Frank and Petric, Marko and Sailer, Andre},
+  date         = {2024-06-02},
+  organization = {{DD4HEP}},
+  title        = {DD4HEP User Manual},
+  url          = {https://dd4hep.web.cern.ch/dd4hep/usermanuals/DD4hepManual/DD4hepManual.pdf},
+  urldate      = {2024-06-02}
+}
+
+@online{dRICH,
+  author       = {Roberto Preghenella},
+  date         = {2023-07-28},
+  organization = {{INFN Bologna}},
+  title        = {{dRICH} status},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431254/attachments/2691764/4671367/3%20%5B20230728%5D%5BePIC%5D%5BdRICH%5D%20Collaboration%20Meeting.pdf},
+  urldate      = {2023-12-29},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431254/attachments/2691764/4671367/3%20%5B20230728%5D%5BePIC%5D%5BdRICH%5D%20Collaboration%20Meeting.pdf}
+}
+
+@article{ECCE,
+title = {Detector requirements and simulation results for the EIC exclusive, diffractive and tagging physics program using the ECCE detector concept},
+journal = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+volume = {1052},
+pages = {168238},
+year = {2023},
+issn = {0168-9002},
+doi = {https://doi.org/10.1016/j.nima.2023.168238},
+url = {https://www.sciencedirect.com/science/article/pii/S0168900223002280},
+author = {A. Bylinkin et al.}
+}
+
+@online{eicpage_github,
+  author       = {{EIC User Group and ePIC Collaboration}},
+  date         = {2024-05-23},
+  organization = {{EIC}},
+  title        = {Main portal to {EIC} software},
+  url          = {https://eic.github.io/},
+  urldate      = {2024-05-23}
+}
+
+@online{eicrecon_page,
+  author       = {},
+  date         = {2024-06-02},
+  organization = {{EIC}},
+  title        = {{EICrecon} Webpage},
+  url          = {https://eicrecon.epic-eic.org/},
+  urldate      = {2024-06-02}
+}
+
+@article{energy_resolution,
+  author     = {R.M. Brown and D.J.A. Cockerill},
+  doi        = {https://doi.org/10.1016/j.nima.2011.03.017},
+  issn       = {0168-9002},
+  journal    = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+  note       = {Advanced Instrumentation},
+  pages      = {47-79},
+  title      = {Electromagnetic calorimetry},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0168900211005572},
+  volume     = {666},
+  year       = {2012},
+  bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0168900211005572},
+  bdsk-url-2 = {https://doi.org/10.1016/j.nima.2011.03.017}
+}
+
+@online{forward_ECal,
+  author       = {Weihu Ma},
+  date         = {2023-07-28},
+  organization = {{Fudan University}},
+  title        = {{ePIC Forward ECal: Status and Plan}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431953/attachments/2691840/4671391/ePIC-Forward_Ecal%20for%20EICUG.pdf},
+  urldate      = {2024-03-01},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431953/attachments/2691840/4671391/ePIC-Forward_Ecal%20for%20EICUG.pdf}
+}
+
+@misc{full_EIC,
+  author     = {{BNL}},
+  note       = {accessed on March~1, 2024},
+  title      = {{Electron-Ion Collider Schematic}},
+  url        = {https://flic.kr/p/2nchaX8},
+  year       = {2022},
+  bdsk-url-1 = {https://flic.kr/p/2nchaX8}
+}
+
+@online{gaseous,
+  author       = {Francesco Boss{\`u}},
+  date         = {2023-07-27},
+  organization = {{CEA Saclay}},
+  title        = {{DSC -- Gaseous trackers}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431809/attachments/2691158/4670055/3%20ePIC_MPGD_DSC_July2023.pdf},
+  urldate      = {2024-03-02},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431809/attachments/2691158/4670055/3%20ePIC_MPGD_DSC_July2023.pdf}
+}
+
+@book{grupen_particle-detectors,
+  author     = {Grupen, Claus and Shwartz, Boris},
+  collection = {Cambridge Monographs on Particle Physics, Nuclear Physics and Cosmology},
+  edition    = {2},
+  place      = {Cambridge},
+  publisher  = {Cambridge University Press},
+  series     = {Cambridge Monographs on Particle Physics, Nuclear Physics and Cosmology},
+  title      = {Particle Detectors},
+  year       = {2008}
+}
+
+@inbook{grupen_wigmans,
+  address    = {Berlin, Heidelberg},
+  author     = {Wigmans, Richard},
+  booktitle  = {Handbook of Particle Detection and Imaging},
+  doi        = {10.1007/978-3-642-13271-1_20},
+  editor     = {Grupen, Claus and Buvat, Ir{\`e}ne},
+  pages      = {497--517},
+  publisher  = {Springer Berlin Heidelberg},
+  title      = {Calorimeters},
+  url        = {https://doi.org/10.1007/978-3-642-13271-1_20},
+  year       = {2012},
+  bdsk-url-1 = {https://doi.org/10.1007/978-3-642-13271-1_20}
+}
+
+@book{hanagaki,
+  address    = {Tokyo},
+  author     = {Hanagaki, Kazunori and Tanaka, Junichi and Tomoto, Makoto and Yamazaki, Yuji},
+  doi        = {10.1007/978-4-431-56931-2_6},
+  isbn       = {978-4-431-56931-2},
+  publisher  = {Springer Japan},
+  title      = {Experimental Techniques in Modern High-Energy Physics: A Beginner`s Guide},
+  url        = {https://doi.org/10.1007/978-4-431-56931-2_6},
+  year       = {2022},
+  bdsk-url-1 = {https://doi.org/10.1007/978-4-431-56931-2_6}
+}
+
+@article{hpDIRC,
+  title   = {The high-performance DIRC for the ePIC detector at the EIC},
+  journal = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+  volume  = {1062},
+  pages   = {169168},
+  year    = {2024},
+  issn    = {0168-9002},
+  doi     = {https://doi.org/10.1016/j.nima.2024.169168},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0168900224000949},
+  author  = {G. Kalicy}
+}
+
+@article{JANA2,
+  doi       = {10.1088/1742-6596/1525/1/012032},
+  url       = {https://dx.doi.org/10.1088/1742-6596/1525/1/012032},
+  year      = {2020},
+  month     = {apr},
+  publisher = {IOP Publishing},
+  volume    = {1525},
+  number    = {1},
+  pages     = {012032},
+  author    = {D Lawrence and A Boehnlein and N Brei and D Romanov},
+  title     = {JANA2: Multithreaded Event Reconstruction},
+  journal   = {Journal of Physics: Conference Series}
+}
+
+@article{jentsch_ff,
+  title     = {Physics Opportunities in the Far-forward Region at the Future Electron--Ion Collider},
+  url       = {https://inspirehep.net/files/22ddbabbe5009656e6315e5ff5844c60},
+  author    = {Jentsch, Alexander},
+  journal   = {Acta Physica Polonica. Series B, Proceedings Supplement},
+  volume    = {16},
+  number    = {BNL-225037-2023-JAAM},
+  year      = {2023},
+  publisher = {Brookhaven National Laboratory (BNL), Upton, NY (United States)}
+}
+
+@online{jentsch_january,
+  author       = {Alex Jentsch},
+  date         = {2024-01-09},
+  organization = {{Brookhaven National Laboratory}},
+  title        = {{AC-LGAD for the Far-Forward Detectors at the EIC}},
+  url          = {https://indico.bnl.gov/event/20473/contributions/85117/attachments/51834/88653/ac_lgad_requirements_far_forward_detectors_1_8_2023_v2.pdf},
+  urldate      = {2024-07-06}
+}
+
+@misc{jlab,
+  author     = {ELECTRON ION COLLIDER PROJECT},
+  note       = {accessed on March~1, 2024},
+  title      = {{EIC System Engineering Data Portal}},
+  url        = {https://eic.jlab.org},
+  year       = {2023},
+  bdsk-url-1 = {https://eic.jlab.org}
+}
+
+@book{knoll_radiation,
+  address       = {Hoboken},
+  author        = {Knoll,Glenn F.},
+  date-modified = {2024-04-27 22:56:27 +0200},
+  edition       = {4th},
+  isbn          = {9780470131480;0470131489;},
+  publisher     = {Wiley},
+  title         = {Radiation detection and measurement},
+  year          = {2010}
+}
+
+@article{lippmann,
+  author     = {Christian Lippmann},
+  doi        = {https://doi.org/10.1016/j.nima.2011.03.009},
+  issn       = {0168-9002},
+  journal    = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+  note       = {Advanced Instrumentation},
+  pages      = {148-172},
+  title      = {Particle identification},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0168900211005419},
+  volume     = {666},
+  year       = {2012},
+  bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0168900211005419},
+  bdsk-url-2 = {https://doi.org/10.1016/j.nima.2011.03.009}
+}
+
+@book{livan_calorimetry,
+  author    = {Livan, Michele and Wigmans, Richard},
+  publisher = {Springer},
+  title     = {Calorimetry for collider physics, an in{troduction}},
+  year      = {2019}
+}
+
+@online{MARCO,
+  author       = {Valerio Calvelli},
+  date         = {2023-07-27},
+  organization = {{CEA Paris-Saclay}},
+  title        = {{Status of MARCO Solenoid}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431786/attachments/2691200/4670117/EICUGM%20-%20MARCO%20ePIC%20detector%20solenoid%20Status.pdf},
+  urldate      = {2024-03-02},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431786/attachments/2691200/4670117/EICUGM%20-%20MARCO%20ePIC%20detector%20solenoid%20Status.pdf}
+}
+
+@article{microscope,
+  title     = {The invention of the microscope},
+  author    = {Bardell, David},
+  journal   = {Bios},
+  volume    = {75},
+  number    = {2},
+  pages     = {78--84},
+  year      = {2004},
+  publisher = {JSTOR}
+}
+
+@incollection{oxford:calorimetry,
+  author     = {Oxford Languages},
+  booktitle  = {Oxford English Dictionary},
+  title      = {Calorimetry},
+  url        = {https://www.oed.com/dictionary/calorimetry_n},
+  urldate    = {2024-03-30},
+  bdsk-url-1 = {https://www.oed.com/dictionary/calorimetry_n}
+}
+
+@article{pf_d_RICH/schematic,
+  author     = {D.S. Bhattacharya and E. Cisbani and C. Chatterjee and S. Dalla Torre and C. Dilks and A. Kiselev and H. Klest and R. Preghenella and A. Vossen},
+  doi        = {https://doi.org/10.1016/j.nima.2023.168591},
+  issn       = {0168-9002},
+  journal    = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+  pages      = {168591},
+  title      = {Simulation studies related to the particle identification by the forward and backward RICH detectors at Electron Ion Collider},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0168900223005818},
+  volume     = {1056},
+  year       = {2023},
+  bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0168900223005818},
+  bdsk-url-2 = {https://doi.org/10.1016/j.nima.2023.168591}
+}
+
+@online{pfRICH,
+  author       = {Brian Page},
+  date         = {2023-07-28},
+  organization = {{BNL}},
+  title        = {{The ePIC Backward RICH Detector}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431814/attachments/2691830/4671369/5%20epicUsersMeeting_pfRICH_2023-07_v2.pdf},
+  urldate      = {2023-12-29},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431814/attachments/2691830/4671369/5%20epicUsersMeeting_pfRICH_2023-07_v2.pdf}
+}
+
+@book{povh_particles,
+  author    = {Povh,Bogdan and Lavelle,Martin},
+  year      = {2008},
+  title     = {Particles and nuclei: an introduction to the physical concepts},
+  publisher = {Springer},
+  address   = {Berlin},
+  edition   = {8th},
+  isbn      = {9783540793670;},
+  language  = {English}
+}
+
+@book{QCD_HEexp,
+  author    = {Günther, Dissertori and Ian G., Knowles and Michael, Schmelling},
+  isbn      = {9780198505723},
+  number    = {Vol. 115},
+  publisher = {OUP Oxford},
+  series    = {International Series of Monographs on Physics},
+  title     = {Quantum Chromodynamics : High Energy Experiments and Theory.},
+  url       = {https://search.ebscohost.com/login.aspx?direct=true&amp;db=e000xww&amp;AN=1484875&amp;lang=cs&amp;site=ehost-live},
+  year      = {2009}
+}
+
+@online{quantamagazine,
+  author  = {Wood, Charlie and Sherman, Merrill},
+  title   = {Inside the proton, the ‘Most complicated thing you could possibly imagine’},
+  url     = {https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/},
+  urldate = {2024-07-06}
+}
+
+@book{quarks_leptons,
+  author    = {Halzen,F. and Martin,Alan D.},
+  year      = {1984},
+  title     = {Quarks and leptons: an introductory course in modern particle physics},
+  publisher = {Wiley},
+  address   = {New York},
+  isbn      = {0471887412;9780471887416;},
+  language  = {English}
+}
+
+@book{science_of_accelerators,
+  title     = {The science and technology of particle accelerators},
+  author    = {Appleby, Rob and Burt, Graeme and Clarke, James and Owen, Hywel},
+  year      = {2020},
+  publisher = {Taylor \& Francis}
+}
+
+@online{SDCC,
+  author       = {},
+  date         = {2024},
+  organization = {{Boehnlein}},
+  title        = {Scientific Data and Computing Center},
+  url          = {https://www.sdcc.bnl.gov/},
+  urldate      = {2024-07-02}
+}
+
+@online{spin,
+  author       = {Barak Schmookler},
+  date         = {2023-09-28},
+  organization = {{UC Riverside}},
+  title        = {{The ePIC detector at the Electron-Ion Collider}},
+  url          = {https://indico.jlab.org/event/663/contributions/13449/attachments/10384/15552/epic_spin2023.pdf},
+  urldate      = {2023-12-29},
+  bdsk-url-1   = {https://indico.jlab.org/event/663/contributions/13449/attachments/10384/15552/epic_spin2023.pdf}
+}
+
+@online{SVT,
+  author       = {Laura Gonella},
+  date         = {2023-07-27},
+  organization = {{University of Birmingham}},
+  title        = {{ePIC Silicon Vertex Tracker}},
+  url          = {https://indico.cern.ch/event/1238718/contributions/5431808/attachments/2691149/4670046/2%20Gonella_20230727-ePIC-SVT-overview.pdf},
+  urldate      = {2023-12-29},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431808/attachments/2691149/4670046/2%20Gonella_20230727-ePIC-SVT-overview.pdf}
+}
+
+@article{whitepaper,
+  author    = {{A. Accardi et al.}},
+  journal   = {The European Physical Journal A},
+  pages     = {1--100},
+  publisher = {Springer},
+  title     = {Electron-Ion Collider: The next QCD frontier: Understanding the glue that binds us all},
+  volume    = {52},
+  year      = {2016}
+}
+
+@misc{wiki,
+  author     = {{Electron-Proton/Ion Collider Experiment}},
+  note       = {accessed on February~27, 2024},
+  title      = {{ePIC Experiment Wiki}},
+  url        = {https://wiki.bnl.gov/EPIC/index.php?title=Main_Page},
+  year       = {2024},
+  bdsk-url-1 = {https://wiki.bnl.gov/EPIC/index.php?title=Main_Page}
+}
+
+@article{YR,
+  author     = {Rabah {Abdul Khalek} et al.},
+  doi        = {https://doi.org/10.1016/j.nuclphysa.2022.122447},
+  issn       = {0375-9474},
+  journal    = {Nuclear Physics A},
+  pages      = {122447},
+  title      = {{Science Requirements and Detector Concepts for the Electron-Ion Collider: EIC Yellow Report}},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0375947422000677},
+  volume     = {1026},
+  year       = {2022},
+  bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0375947422000677},
+  bdsk-url-2 = {https://doi.org/10.1016/j.nuclphysa.2022.122447}
+}
+
+@article{spin-crisis,
+title = {A measurement of the spin asymmetry and determination of the structure function g1 in deep inelastic muon-proton scattering},
+journal = {Physics Letters B},
+volume = {206},
+number = {2},
+pages = {364-370},
+year = {1988},
+issn = {0370-2693},
+doi = {https://doi.org/10.1016/0370-2693(88)91523-7},
+url = {https://www.sciencedirect.com/science/article/pii/0370269388915237},
+author = {{J. Ashman et al.}}
+}
+
+@misc{rhic-spin,
+title={The RHIC SPIN Program: Achievements and Future Opportunities}, 
+author={{E.-C. Aschenauer et al.}},
+year={2015},
+eprint={1501.01220},
+archivePrefix={arXiv},
+primaryClass={nucl-ex},
+url={https://arxiv.org/abs/1501.01220}
+}
+
+@article{hepmc3,
+title={The HepMC3 event record library for Monte Carlo event generators},
+volume={260},
+ISSN={0010-4655},
+url={http://dx.doi.org/10.1016/j.cpc.2020.107310},
+DOI={10.1016/j.cpc.2020.107310},
+journal={Computer Physics Communications},
+publisher={Elsevier BV},
+author={{A. Buckley et al.}},
+year={2021},
+month=mar
+}
+
+@misc{podio,
+  author     = {{AIDAsoft}},
+  note       = {accessed on July~22, 2024},
+  title      = {podio GitHub repository},
+  url        = {https://github.com/AIDASoft/podio},
+  year       = {2024},
+}
+
+@misc{rhic,
+  author     = {{Brookhaven National Laboratory}},
+  note       = {accessed on July~23, 2024},
+  title      = {Relativistic Heavy Ion Collider webpage},
+  url        = {https://www.bnl.gov/rhic},
+  year       = {2024},
+}
+
+@online{RHIC-EIC,
+  author       = {Sergei Nagaitsev},
+  date         = {2024-05-21},
+  organization = {{BNL/Old Dominion University}},
+  title        = {{Electron Ion Collider status: Design and construction}},
+  url          = {https://indico.jlab.org/event/834/contributions/14240/attachments/11036/16940/IPAC24_EIC_SN.pdf},
+  urldate      = {2024-07-24},
+  bdsk-url-1   = {https://indico.cern.ch/event/1238718/contributions/5431953/attachments/2691840/4671391/ePIC-Forward_Ecal%20for%20EICUG.pdf}
+}
+
+@online{pdglive,
+  author       = {{S. Navas et al.}},
+  date         = {2024},
+  organization = {{Particle Data Group}},
+  title        = {{pdgLive - Interactive Listings}},
+  url          = {https://pdglive.lbl.gov/},
+  urldate      = {2024-07-24}
+}
+
+@misc{neutrino_mass,
+title={Direct neutrino-mass measurement based on 259 days of {KATRIN} data}, 
+author={{M. Aker et al.}},
+year={2024},
+eprint={2406.13516},
+archivePrefix={arXiv},
+primaryClass={nucl-ex},
+url={https://arxiv.org/abs/2406.13516}
+}
+
