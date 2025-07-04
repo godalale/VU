@@ -1,0 +1,6 @@
+[Caroline paper] = https://zenodo.org/records/14200156
+Vector-meson reconstruction in the ePIC backward HCal
+Riedl, C. (2024). Vector-meson reconstruction in the ePIC backward HCal (1.0). Zenodo. https://doi.org/10.5281/zenodo.14200156
+
+%%%%
+
