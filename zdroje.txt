@@ -4,3 +4,6 @@ Riedl, C. (2024). Vector-meson reconstruction in the ePIC backward HCal (1.0). Z
 
 %%%%
 
+[Nagaitsev Frascati] = https://agenda.infn.it/event/43344/contributions/250117/attachments/130412/194048/ePIC_collab_meeting_Jan2025_S.Nagaitsev.pdf
+
+%%%%

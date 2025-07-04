@@ -298,6 +298,8 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
@@ -457,6 +459,7 @@ INPUT ./img/e+Au-phi(KK).pdf
 INPUT ./img/e+Au-phi(KK).pdf
 INPUT ./img/e+Au-phi(KK).pdf
 INPUT ./img/e+Au-phi(KK).pdf
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT ./img/K1K2matica.pdf
 INPUT ./img/K1K2matica.pdf
 INPUT ./img/K1K2matica.pdf
@@ -480,7 +483,6 @@ INPUT ./img/orig_config_clusters.pdf
 INPUT ./img/orig_config_clusters.pdf
 INPUT ./img/orig_config_clusters.pdf
 INPUT ./img/orig_config_clusters.pdf
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT ./img/every_rot_removed_clusters.pdf
 INPUT ./img/every_rot_removed_clusters.pdf
 INPUT ./img/every_rot_removed_clusters.pdf
