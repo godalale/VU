@@ -159,14 +159,6 @@
 \newcommand{\ROOT}{ROOT}
 
 \newcommand{\e}{\mathrm{e}}
-\newcommand{\Lowq}{Low\,-\,\ensuremath{Q^2}~}
-\newcommand{\lowq}{low\,-\,\ensuremath{Q^2}~}
-
-\newcommand{\cor}[1]{\textcolor[rgb]{1,0,0}{#1}}
-%\def\cor{}
-\newcommand{\keep}[1]{\textcolor[rgb]{0,1,0}{#1}}
-
-\newcommand{\clarify}[1]{\textcolor[rgb]{0,0,1}{#1}}
 
 \newcommand{\abs}[1]{\lvert #1 \rvert}
 \newcommand{\diff}[1]{\text{d}#1}
@@ -181,6 +173,13 @@
 \newcommand{\bra}[1]{\ensuremath{\langle #1 |}}
 \newcommand{\ket}[1]{\ensuremath{| #1 \rangle}}
 \newcommand{\braket}[2]{\ensuremath{\left\langle #1 | #2 \right\rangle}}
+
+\usepackage{scalerel,stackengine}
+\usepackage{graphicx}
+
+\newcommand{\cev}[1]{\reflectbox{\ensuremath{\vec{\reflectbox{$#1$}}}}}
+\newcommand{\na}[1]{\ensuremath{^{\,#1}}}
+
 %\let\theta\vartheta
 
 
@@ -237,10 +236,10 @@
    &\cvut, \\   
    &\fjfi,\\
    &\kf\\
-  {\em Konzultant:} & \konzultant \\ 
-   &\cvut, \\   
-   &\fjfi,\\
-   &\kf\\
+  % {\em Konzultant:} & \konzultant \\ 
+  %  &\cvut, \\   
+  %  &\fjfi,\\
+  %  &\kf\\
   {\em Akademický rok:} & \akrok\\
   %{\em Počet stran:} & \pageref{LastPage} \\ %doplniť
   {\em Klíčová slova:} & \klicovaslovacz\\
@@ -276,10 +275,10 @@
    &\cvuten, \\   
    &\fjfien,\\
    &\kfen\\ 
-  {\em Consultant:} & \konzultant \\ 
-   &\cvuten, \\   
-   &\fjfien,\\
-   &\kfen\\ 
+  % {\em Consultant:} & \konzultant \\ 
+  %  &\cvuten, \\   
+  %  &\fjfien,\\
+  %  &\kfen\\ 
   {\em Academic year:} & \akrok\\
   %% {\em Number of pages:} &~\pageref{LastPage} \\ %doplniť
   {\em Keywords:} & \klicovaslovaen\\
