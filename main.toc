@@ -1,22 +1,49 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{Introduction}{7}{chapter*.2}%
-\contentsline {chapter}{\numberline {1}Electron-Ion Collider}{8}{chapter.1}%
-\contentsline {section}{\numberline {1.1}From RHIC to EIC}{8}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Physics}{9}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Deep Inelastic Scattering?}{9}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Diffractive vector-meson production}{10}{section.2.2}%
-\contentsline {chapter}{\numberline {3}ePIC Experiment}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}}{11}{section.3.1}%
-\contentsline {chapter}{\numberline {4}nHCal}{12}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Motivation}{12}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Construction}{13}{section.4.2}%
-\contentsline {section}{\numberline {4.3}?}{13}{section.4.3}%
-\contentsline {section}{\numberline {4.4}answers}{13}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Practical work}{14}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Cluster explanation?}{14}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Material plots}{14}{section.5.2}%
-\contentsline {section}{\numberline {5.3}tilt?}{15}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Sar$t$re MC generator}{15}{section.5.4}%
-\contentsline {section}{\numberline {5.5}phi - KK plots}{15}{section.5.5}%
-\contentsline {chapter}{Summary}{16}{chapter*.9}%
-\contentsline {chapter}{Bibliography}{17}{chapter*.10}%
+\contentsline {chapter}{Introduction}{8}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Electron-Ion Collider}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}From RHIC to EIC}{9}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Physics}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Scattering processes}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}ETC}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Variables and constants}{11}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Deep Inelastic Scattering?}{12}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Multi-Dimensional Imaging of the Nucleon}{13}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}DVCS}{14}{subsection.2.5.1}%
+\contentsline {section}{\numberline {2.6}Diffractive vector-meson production}{15}{section.2.6}%
+\contentsline {chapter}{\numberline {3}ePIC Experiment}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Magnet Systems}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Tracking}{17}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Silicon Vertex Tracker}{17}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}MPGD}{17}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}AC-LGAD (ToF)}{17}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Particle Identification (PID)}{17}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}pfRICH}{17}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}dRICH}{17}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}hpDIRC}{17}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Electromagnetic Calorimetry}{17}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Backward Endcap}{17}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Barrel}{17}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Forward Endcap}{17}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Hadronic Calorimetry}{17}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Backward Endcap}{17}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Barrel}{17}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Forward Endcap}{17}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Far Backward Detectors}{17}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Luminosity detectors}{17}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Low-$Q^2$ taggers}{17}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Far Forward Detectors}{17}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Roman pots and Off-momentum detectors}{17}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Zero-degree calorimeters}{17}{subsection.3.7.2}%
+\contentsline {chapter}{\numberline {4}nHCal}{18}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Motivation}{18}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Construction}{19}{section.4.2}%
+\contentsline {section}{\numberline {4.3}?}{19}{section.4.3}%
+\contentsline {section}{\numberline {4.4}answers}{19}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Practical work}{20}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Cluster explanation?}{20}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Material plots}{20}{section.5.2}%
+\contentsline {section}{\numberline {5.3}tilt?}{21}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Sar$t$re MC generator}{21}{section.5.4}%
+\contentsline {section}{\numberline {5.5}phi - KK plots}{21}{section.5.5}%
+\contentsline {chapter}{Summary}{22}{chapter*.16}%
+\contentsline {chapter}{Bibliography}{23}{chapter*.17}%

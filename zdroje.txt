@@ -13,3 +13,29 @@ Riedl, C. (2024). Vector-meson reconstruction in the ePIC backward HCal (1.0). Z
 %%%%
 
 [scaling violation] = https://arxiv.org/abs/hep-ex/0507024
+
+%%%%
+
+[RHIC image] = https://www.flickr.com/photos/brookhavenlab/51980309345/in/album-72157714316624996
+
+%%%%%
+
+[EIC image] = https://www.flickr.com/photos/brookhavenlab/54007751967/in/album-72157714316624996
+
+%%%%
+[RHIC-facts] = https://www.bnl.gov/newsroom/factsheets/files/pdf/rhic.pdf
+
+%%%%
+[Jlab TMD-FF] = https://www.google.com/url?sa=i&url=https%3A%2F%2Findico.jlab.org%2Fevent%2F705%2Fcontributions%2F13046%2Fattachments%2F9968%2F14719%2FPresentation_2023_06_29__Hall_A_C_meeting_.pdf&psig=AOvVaw1RRcxN2q_uDuEALkBUuG3f&ust=1752321966004000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qGAoTCLDnqJXitI4DFQAAAAAdAAAAABCUAQ
+
+%%%%
+
+[landscape] = https://www.google.com/url?sa=i&url=https%3A%2F%2Fagenda.infn.it%2Fevent%2F33473%2Fcontributions%2F213745%2Fattachments%2F112478%2F160746%2FEINN_Metz_2023.pdf&psig=AOvVaw1RRcxN2q_uDuEALkBUuG3f&ust=1752321966004000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qGAoTCLDnqJXitI4DFQAAAAAdAAAAABCeAQ
+
+%%%%
+
+[DVCS] = https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-handbag-diagram-for-DVCS-In-the-kinematics-of-the-experiment-reported-here-xB036_fig3_338848936&psig=AOvVaw2dyDkttRr9hvASyIb-Yqff&ust=1752328067016000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCIjhgPL4tI4DFQAAAAAdAAAAABAE
+
+%%%%
+
+[vm] = https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1140%2Fepjc%2Fs10052-020-08587-3&psig=AOvVaw3oh_TJJcw-nINZrO0eLVKC&ust=1752328238323000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCMDZssb5tI4DFQAAAAAdAAAAABAM
