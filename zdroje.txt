@@ -39,3 +39,15 @@ Riedl, C. (2024). Vector-meson reconstruction in the ePIC backward HCal (1.0). Z
 %%%%
 
 [vm] = https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1140%2Fepjc%2Fs10052-020-08587-3&psig=AOvVaw3oh_TJJcw-nINZrO0eLVKC&ust=1752328238323000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCMDZssb5tI4DFQAAAAAdAAAAABAM
+
+%%%%
+
+[REC for EIC] (cit. 24. 10. 2025) = https://www.osti.gov/servlets/purl/2573763
+
+%%%%
+
+[crab-cavities] (cit. 24. 10. 2025) = https://home.cern/news/news/accelerators/crab-cavities-colliding-protons-head
+
+%%%%
+
+[RHIC-Program] (cit. 24. 10. 2025) = https://arxiv.org/pdf/2504.08406

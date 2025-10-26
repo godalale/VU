@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.21)  18 JUL 2025 18:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.17)  26 OCT 2025 19:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -872,7 +872,7 @@ Package translations Info: loading dictionary `translations-basic-dictionary' fo
 \openout2 = `title.aux'.
 
  (./title.tex
-<img/logo_FJFI.pdf, id=199, 510.57349pt x 192.25327pt>
+<img/logo_FJFI.pdf, id=220, 510.57349pt x 192.25327pt>
 File: img/logo_FJFI.pdf Graphic file (type pdf)
 <use img/logo_FJFI.pdf>
 Package pdftex.def Info: img/logo_FJFI.pdf  used on input line 18.
@@ -883,7 +883,7 @@ Package pdftex.def Info: img/logo_FJFI.pdf  used on input line 18.
 
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/logo_FJFI.pdf>]
-<img/logo_FNSPE_cb.pdf, id=211, 631.22226pt x 193.08134pt>
+<img/logo_FNSPE_cb.pdf, id=231, 631.22226pt x 193.08134pt>
 File: img/logo_FNSPE_cb.pdf Graphic file (type pdf)
 <use img/logo_FNSPE_cb.pdf>
 Package pdftex.def Info: img/logo_FNSPE_cb.pdf  used on input line 60.
@@ -938,86 +938,89 @@ Overfull \hbox (34.13737pt too wide) in paragraph at lines 267--287
 ]
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--11
-
- []
-
-<img/rhic.jpg, id=297, 1139.25626pt x 2001.4775pt>
-File: img/rhic.jpg Graphic file (type jpg)
-<use img/rhic.jpg>
-Package pdftex.def Info: img/rhic.jpg  used on input line 14.
-(pdftex.def)             Requested size: 168.42996pt x 295.90848pt.
-<img/eic.jpg, id=298, 1536.74126pt x 2046.64626pt>
-File: img/eic.jpg Graphic file (type jpg)
-<use img/eic.jpg>
-Package pdftex.def Info: img/eic.jpg  used on input line 22.
-(pdftex.def)             Requested size: 222.17693pt x 295.90848pt.
-
 
 [9
 
-]) (./kapitoly/physics.tex
+]
+<img/rhic.jpg, id=325, 1139.25626pt x 2001.4775pt>
+File: img/rhic.jpg Graphic file (type jpg)
+<use img/rhic.jpg>
+Package pdftex.def Info: img/rhic.jpg  used on input line 21.
+(pdftex.def)             Requested size: 168.42996pt x 295.90848pt.
+<img/eic.jpg, id=326, 1536.74126pt x 2046.64626pt>
+File: img/eic.jpg Graphic file (type jpg)
+<use img/eic.jpg>
+Package pdftex.def Info: img/eic.jpg  used on input line 29.
+(pdftex.def)             Requested size: 222.17693pt x 295.90848pt.
+<img/crab_cavities.jpg, id=327, 1445.4pt x 953.5625pt>
+File: img/crab_cavities.jpg Graphic file (type jpg)
+<use img/crab_cavities.jpg>
+Package pdftex.def Info: img/crab_cavities.jpg  used on input line 39.
+(pdftex.def)             Requested size: 341.43436pt x 225.25124pt.
 
-[10 <./img/rhic.jpg> <./img/eic.jpg>]
+
+[10 <./img/rhic.jpg> <./img/eic.jpg> <./img/crab_cavities.jpg>]) (./kapitoly/physics.tex
+
+[11]
 Chapter 2.
-<img/dis.png, id=310, 1773.62625pt x 1861.95625pt>
+<img/dis.png, id=343, 1773.62625pt x 1861.95625pt>
 File: img/dis.png Graphic file (type png)
 <use img/dis.png>
 Package pdftex.def Info: img/dis.png  used on input line 35.
 (pdftex.def)             Requested size: 128.0387pt x 134.41304pt.
 
 
-[11
+[12
 
 ]
-<img/lab_sys.pdf, id=319, 168.16475pt x 97.38634pt>
+<img/lab_sys.pdf, id=352, 168.16475pt x 97.38634pt>
 File: img/lab_sys.pdf Graphic file (type pdf)
 <use img/lab_sys.pdf>
 Package pdftex.def Info: img/lab_sys.pdf  used on input line 43.
 (pdftex.def)             Requested size: 204.85802pt x 118.64026pt.
-<img/breit_sys.pdf, id=320, 168.18474pt x 85.46399pt>
+<img/breit_sys.pdf, id=353, 168.18474pt x 85.46399pt>
 File: img/breit_sys.pdf Graphic file (type pdf)
 <use img/breit_sys.pdf>
 Package pdftex.def Info: img/breit_sys.pdf  used on input line 48.
 (pdftex.def)             Requested size: 204.85802pt x 104.10681pt.
-<img/landscape.png, id=321, 293.095pt x 172.645pt>
+<img/landscape.png, id=354, 293.095pt x 172.645pt>
 File: img/landscape.png Graphic file (type png)
 <use img/landscape.png>
 Package pdftex.def Info: img/landscape.png  used on input line 67.
 (pdftex.def)             Requested size: 298.75262pt x 175.977pt.
 
 
-[12 <./img/dis.png> <./img/lab_sys.pdf> <./img/breit_sys.pdf> <./img/landscape.png>]
-<img/scaling_violation.pdf, id=462, 245.5386pt x 343.28691pt>
+[13 <./img/dis.png> <./img/lab_sys.pdf> <./img/breit_sys.pdf> <./img/landscape.png>]
+<img/scaling_violation.pdf, id=496, 245.5386pt x 343.28691pt>
 File: img/scaling_violation.pdf Graphic file (type pdf)
 <use img/scaling_violation.pdf>
 Package pdftex.def Info: img/scaling_violation.pdf  used on input line 80.
 (pdftex.def)             Requested size: 298.75262pt x 417.69368pt.
 
 
-[13 <./img/scaling_violation.pdf>]
-<img/TMD_FF.png, id=524, 241.90375pt x 209.78375pt>
+[14 <./img/scaling_violation.pdf>]
+<img/TMD_FF.png, id=556, 241.90375pt x 209.78375pt>
 File: img/TMD_FF.png Graphic file (type png)
 <use img/TMD_FF.png>
 Package pdftex.def Info: img/TMD_FF.png  used on input line 93.
 (pdftex.def)             Requested size: 213.39566pt x 185.068pt.
-<img/DVCS.png, id=525, 315.1775pt x 337.26pt>
+<img/DVCS.png, id=557, 315.1775pt x 337.26pt>
 File: img/DVCS.png Graphic file (type png)
 <use img/DVCS.png>
 Package pdftex.def Info: img/DVCS.png  used on input line 103.
 (pdftex.def)             Requested size: 213.39566pt x 228.34569pt.
-<img/vm.png, id=526, 687.56876pt x 715.67375pt>
+<img/vm.png, id=558, 687.56876pt x 715.67375pt>
 File: img/vm.png Graphic file (type png)
 <use img/vm.png>
 Package pdftex.def Info: img/vm.png  used on input line 115.
 (pdftex.def)             Requested size: 213.39566pt x 222.11865pt.
 
 
-[14 <./img/TMD_FF.png> <./img/DVCS.png>]) (./kapitoly/epic.tex
+[15 <./img/TMD_FF.png> <./img/DVCS.png>]) (./kapitoly/epic.tex
 
-[15 <./img/vm.png (PNG copy)>]
+[16 <./img/vm.png (PNG copy)>]
 Chapter 3.
-<img/ePIC_skp.png, id=540, 2402.9775pt x 1466.47874pt>
+<img/ePIC_skp.png, id=572, 2402.9775pt x 1466.47874pt>
 File: img/ePIC_skp.png Graphic file (type png)
 <use img/ePIC_skp.png>
 Package pdftex.def Info: img/ePIC_skp.png  used on input line 5.
@@ -1040,11 +1043,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 ) (./kapitoly/nhcal.tex
 
-[16
+[17
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc} <./img/ePIC_skp.png>]
 
-[17]
+[18]
 Chapter 4.
 
 Overfull \hbox (12.40848pt too wide) in paragraph at lines 4--5
@@ -1058,7 +1061,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--16
 
 
 
-[18
+[19
 
 ]
 Overfull \hbox (6.675pt too wide) in paragraph at lines 56--63
@@ -1075,41 +1078,41 @@ Overfull \hbox (6.775pt too wide) in paragraph at lines 64--70
 \OT1/cmr/m/n/12 value="1.032" unit="g/cm3" com-pos-ite n="19" ref="C" com-pos-ite n="21" ref="H"
  []
 
-<img/e+Au-phi(KK).pdf, id=565, 89.96028pt x 88.79564pt>
+<img/e+Au-phi(KK).pdf, id=598, 89.96028pt x 88.79564pt>
 File: img/e+Au-phi(KK).pdf Graphic file (type pdf)
 <use img/e+Au-phi(KK).pdf>
 Package pdftex.def Info: img/e+Au-phi(KK).pdf  used on input line 75.
 (pdftex.def)             Requested size: 194.61449pt x 192.10867pt.
-<img/K1K2matica.pdf, id=566, 97.52972pt x 92.58047pt>
+<img/K1K2matica.pdf, id=599, 97.52972pt x 92.58047pt>
 File: img/K1K2matica.pdf Graphic file (type pdf)
 <use img/K1K2matica.pdf>
 Package pdftex.def Info: img/K1K2matica.pdf  used on input line 80.
 (pdftex.def)             Requested size: 204.85802pt x 194.48967pt.
 ) (./kapitoly/work.tex
 
-[19 <./img/e+Au-phi(KK).pdf> <./img/K1K2matica.pdf>]
+[20 <./img/e+Au-phi(KK).pdf> <./img/K1K2matica.pdf>]
 Chapter 5.
-<img/averageClusters.pdf, id=754, 569.12625pt x 408.52625pt>
+<img/averageClusters.pdf, id=786, 569.12625pt x 408.52625pt>
 File: img/averageClusters.pdf Graphic file (type pdf)
 <use img/averageClusters.pdf>
 Package pdftex.def Info: img/averageClusters.pdf  used on input line 7.
 (pdftex.def)             Requested size: 256.0774pt x 183.82265pt.
-<img/combined_clusters_norot.pdf, id=755, 569.12625pt x 408.52625pt>
+<img/combined_clusters_norot.pdf, id=787, 569.12625pt x 408.52625pt>
 File: img/combined_clusters_norot.pdf Graphic file (type pdf)
 <use img/combined_clusters_norot.pdf>
 Package pdftex.def Info: img/combined_clusters_norot.pdf  used on input line 14.
 (pdftex.def)             Requested size: 256.0774pt x 183.82265pt.
 
 
-[20
+[21
 
  <./img/averageClusters.pdf, page is rotated 90 degrees>]
-<img/orig_config_clusters.pdf, id=804, 614.64862pt x 616.67621pt>
+<img/orig_config_clusters.pdf, id=836, 614.64862pt x 616.67621pt>
 File: img/orig_config_clusters.pdf Graphic file (type pdf)
 <use img/orig_config_clusters.pdf>
 Package pdftex.def Info: img/orig_config_clusters.pdf  used on input line 24.
 (pdftex.def)             Requested size: 204.85802pt x 205.52686pt.
-<img/every_rot_removed_clusters.pdf, id=805, 720.53217pt x 730.96967pt>
+<img/every_rot_removed_clusters.pdf, id=837, 720.53217pt x 730.96967pt>
 File: img/every_rot_removed_clusters.pdf Graphic file (type pdf)
 <use img/every_rot_removed_clusters.pdf>
 Package pdftex.def Info: img/every_rot_removed_clusters.pdf  used on input line 30.
@@ -1130,7 +1133,7 @@ Overfull \hbox (44.43329pt too wide) in paragraph at lines 40--41
 
 ) (./kapitoly/outro.tex
 
-[21 <./img/combined_clusters_norot.pdf, page is rotated 90 degrees> <./img/orig_config_clusters.pdf> <./img/every_rot_removed_clusters.pdf>]
+[22 <./img/combined_clusters_norot.pdf, page is rotated 90 degrees> <./img/orig_config_clusters.pdf> <./img/every_rot_removed_clusters.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1167,7 +1170,7 @@ Overfull \hbox (42.82034pt too wide) in paragraph at lines 20--22
 
 )) (./bib_ord.tex
 
-[22
+[23
 
 ]
 Underfull \hbox (badness 3690) in paragraph at lines 26--27
@@ -1181,7 +1184,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 26--27
 
 
 
-[23
+[24
 
 ]
 Underfull \hbox (badness 1178) in paragraph at lines 28--29
@@ -1190,7 +1193,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 28--29
 
 )
 
-[24] 
+[25] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./main.aux (./title.aux))
  ***********
@@ -1198,21 +1201,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1EA9F6D58AD78B97B3DBF48812CFE0D7;6440.
+(rerunfilecheck)             Checksum: 74244953BFDE84FAF2B05DFB68075475;6906.
  ) 
 Here is how much of TeX's memory you used:
- 34157 strings out of 473190
- 693211 string characters out of 5715800
- 1113392 words of memory out of 5000000
- 56726 multiletter control sequences out of 15000+600000
+ 34184 strings out of 473190
+ 693721 string characters out of 5715799
+ 1113444 words of memory out of 5000000
+ 56744 multiletter control sequences out of 15000+600000
  575833 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,93p,1076b,1176s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on main.pdf (24 pages, 5827774 bytes).
+Output written on main.pdf (25 pages, 6290015 bytes).
 PDF statistics:
- 1016 PDF objects out of 1200 (max. 8388607)
- 772 compressed objects within 8 object streams
- 103 named destinations out of 1000 (max. 500000)
- 492 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1052 PDF objects out of 1200 (max. 8388607)
+ 805 compressed objects within 9 object streams
+ 112 named destinations out of 1000 (max. 500000)
+ 537 words of extra memory for PDF output out of 10000 (max. 10000000)
 
