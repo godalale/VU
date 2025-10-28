@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.17)  26 OCT 2025 19:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.17)  29 OCT 2025 00:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -82,6 +82,8 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip52
 \thm@headsep=\skip53
 \dth@everypar=\toks26
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/isotope/isotope.sty
+Package: isotope 2011/08/26 v0.3 for typesetting isotopes
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip54
@@ -690,6 +692,17 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box84
 \enit@count@id=\count361
 \enitdp@description=\count362
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
+\FN@temptoken=\toks55
+\footnotemargin=\dimen307
+\@outputbox@depth=\dimen308
+Package footmisc Info: Declaring symbol style bringhurst on input line 699.
+Package footmisc Info: Declaring symbol style chicago on input line 707.
+Package footmisc Info: Declaring symbol style wiley on input line 716.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 727.
+Package footmisc Info: Declaring symbol style lamport* on input line 747.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 768.
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
@@ -708,41 +721,41 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthL=\skip78
 \f@nch@widthC=\skip79
 \f@nch@widthR=\skip80
-\@temptokenb=\toks55
+\@temptokenb=\toks56
 ) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
 File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen307
-\pgfdecoratedremainingdistance=\dimen308
-\pgfdecoratedinputsegmentcompleteddistance=\dimen309
-\pgfdecoratedinputsegmentremainingdistance=\dimen310
-\pgf@decorate@distancetomove=\dimen311
+\pgfdecoratedcompleteddistance=\dimen309
+\pgfdecoratedremainingdistance=\dimen310
+\pgfdecoratedinputsegmentcompleteddistance=\dimen311
+\pgfdecoratedinputsegmentremainingdistance=\dimen312
+\pgf@decorate@distancetomove=\dimen313
 \pgf@decorate@repeatstate=\count363
-\pgfdecorationsegmentamplitude=\dimen312
-\pgfdecorationsegmentlength=\dimen313
+\pgfdecorationsegmentamplitude=\dimen314
+\pgfdecorationsegmentlength=\dimen315
 )
 \tikz@lib@dec@box=\box85
 ) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex))
-Package hyperref Info: Option `colorlinks' set `false' on input line 70.
+Package hyperref Info: Option `colorlinks' set `false' on input line 71.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen314
-\lightrulewidth=\dimen315
-\cmidrulewidth=\dimen316
-\belowrulesep=\dimen317
-\belowbottomsep=\dimen318
-\aboverulesep=\dimen319
-\abovetopsep=\dimen320
-\cmidrulesep=\dimen321
-\cmidrulekern=\dimen322
-\defaultaddspace=\dimen323
+\heavyrulewidth=\dimen316
+\lightrulewidth=\dimen317
+\cmidrulewidth=\dimen318
+\belowrulesep=\dimen319
+\belowbottomsep=\dimen320
+\aboverulesep=\dimen321
+\abovetopsep=\dimen322
+\cmidrulesep=\dimen323
+\cmidrulekern=\dimen324
+\defaultaddspace=\dimen325
 \@cmidla=\count364
 \@cmidlb=\count365
-\@aboverulesep=\dimen324
-\@belowrulesep=\dimen325
+\@aboverulesep=\dimen326
+\@belowrulesep=\dimen327
 \@thisruleclass=\count366
 \@lastruleclass=\count367
-\@thisrulewidth=\dimen326
+\@thisrulewidth=\dimen328
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/scalerel/scalerel.sty
 Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretching of objects, relative to a reference object or in absolute terms
 \thesrwidth=\skip81
@@ -775,24 +788,24 @@ Package: listofitems 2024/03/09 v1.65 Grab items in lists using user-specified s
 ) (./main.aux (./title.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 187.
-LaTeX Font Info:    ... okay on input line 187.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 188.
+LaTeX Font Info:    ... okay on input line 188.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -831,23 +844,23 @@ LaTeX Font Info:    ... okay on input line 187.
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count372
-\scratchdimen=\dimen327
+\scratchdimen=\dimen329
 \scratchbox=\box92
 \nofMPsegments=\count373
 \nofMParguments=\count374
-\everyMPshowfont=\toks56
+\everyMPshowfont=\toks57
 \MPscratchCnt=\count375
-\MPscratchDim=\dimen328
+\MPscratchDim=\dimen330
 \MPnumerator=\count376
 \makeMPintoPDFobject=\count377
-\everyMPtoPDFconversion=\toks57
+\everyMPtoPDFconversion=\toks58
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 187.
+Package hyperref Info: Link coloring OFF on input line 188.
  (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -867,12 +880,12 @@ Package caption Info: End \AtBeginDocument code.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 187.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 188.
 \c@lstlisting=\count378
 \openout2 = `title.aux'.
 
  (./title.tex
-<img/logo_FJFI.pdf, id=220, 510.57349pt x 192.25327pt>
+<img/logo_FJFI.pdf, id=232, 510.57349pt x 192.25327pt>
 File: img/logo_FJFI.pdf Graphic file (type pdf)
 <use img/logo_FJFI.pdf>
 Package pdftex.def Info: img/logo_FJFI.pdf  used on input line 18.
@@ -883,7 +896,7 @@ Package pdftex.def Info: img/logo_FJFI.pdf  used on input line 18.
 
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/logo_FJFI.pdf>]
-<img/logo_FNSPE_cb.pdf, id=231, 631.22226pt x 193.08134pt>
+<img/logo_FNSPE_cb.pdf, id=243, 631.22226pt x 193.08134pt>
 File: img/logo_FNSPE_cb.pdf Graphic file (type pdf)
 <use img/logo_FNSPE_cb.pdf>
 Package pdftex.def Info: img/logo_FNSPE_cb.pdf  used on input line 60.
@@ -896,26 +909,26 @@ Package pdftex.def Info: img/logo_FNSPE_cb.pdf  used on input line 60.
 
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 228.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 229.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 228.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 229.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 228.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 229.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \hbox (36.5332pt too wide) in paragraph at lines 228--247
+Overfull \hbox (36.5332pt too wide) in paragraph at lines 229--248
 [][] 
  []
 
 
 
 [4]
-Overfull \hbox (34.13737pt too wide) in paragraph at lines 267--287
+Overfull \hbox (34.13737pt too wide) in paragraph at lines 268--288
 [][] 
  []
 
@@ -942,85 +955,97 @@ Chapter 1.
 [9
 
 ]
-<img/rhic.jpg, id=325, 1139.25626pt x 2001.4775pt>
+<img/rhic.jpg, id=352, 1139.25626pt x 2001.4775pt>
 File: img/rhic.jpg Graphic file (type jpg)
 <use img/rhic.jpg>
-Package pdftex.def Info: img/rhic.jpg  used on input line 21.
-(pdftex.def)             Requested size: 168.42996pt x 295.90848pt.
-<img/eic.jpg, id=326, 1536.74126pt x 2046.64626pt>
-File: img/eic.jpg Graphic file (type jpg)
-<use img/eic.jpg>
-Package pdftex.def Info: img/eic.jpg  used on input line 29.
-(pdftex.def)             Requested size: 222.17693pt x 295.90848pt.
-<img/crab_cavities.jpg, id=327, 1445.4pt x 953.5625pt>
+Package pdftex.def Info: img/rhic.jpg  used on input line 16.
+(pdftex.def)             Requested size: 128.0387pt x 224.92746pt.
+<img/EIC_new.png, id=353, 774.80728pt x 808.93816pt>
+File: img/EIC_new.png Graphic file (type png)
+<use img/EIC_new.png>
+Package pdftex.def Info: img/EIC_new.png  used on input line 23.
+(pdftex.def)             Requested size: 341.43436pt x 356.477pt.
+<img/luminosity2_placeholder.pdf, id=354, 356.4766pt x 241.87598pt>
+File: img/luminosity2_placeholder.pdf Graphic file (type pdf)
+<use img/luminosity2_placeholder.pdf>
+Package pdftex.def Info: img/luminosity2_placeholder.pdf  used on input line 30.
+(pdftex.def)             Requested size: 298.75262pt x 202.71309pt.
+
+
+[10 <./img/rhic.jpg>]
+
+[11 <./img/EIC_new.png>]
+
+[12 <./img/luminosity2_placeholder.pdf>]
+<img/crab_cavities.jpg, id=394, 1445.4pt x 953.5625pt>
 File: img/crab_cavities.jpg Graphic file (type jpg)
 <use img/crab_cavities.jpg>
-Package pdftex.def Info: img/crab_cavities.jpg  used on input line 39.
-(pdftex.def)             Requested size: 341.43436pt x 225.25124pt.
+Package pdftex.def Info: img/crab_cavities.jpg  used on input line 72.
+(pdftex.def)             Requested size: 298.75262pt x 197.09665pt.
+) (./kapitoly/physics.tex
 
+[13]
 
-[10 <./img/rhic.jpg> <./img/eic.jpg> <./img/crab_cavities.jpg>]) (./kapitoly/physics.tex
-
-[11]
+[14 <./img/crab_cavities.jpg>]
 Chapter 2.
-<img/dis.png, id=343, 1773.62625pt x 1861.95625pt>
+<img/dis.png, id=407, 1773.62625pt x 1861.95625pt>
 File: img/dis.png Graphic file (type png)
 <use img/dis.png>
 Package pdftex.def Info: img/dis.png  used on input line 35.
 (pdftex.def)             Requested size: 128.0387pt x 134.41304pt.
 
 
-[12
+[15
 
 ]
-<img/lab_sys.pdf, id=352, 168.16475pt x 97.38634pt>
+<img/lab_sys.pdf, id=415, 168.16475pt x 97.38634pt>
 File: img/lab_sys.pdf Graphic file (type pdf)
 <use img/lab_sys.pdf>
 Package pdftex.def Info: img/lab_sys.pdf  used on input line 43.
 (pdftex.def)             Requested size: 204.85802pt x 118.64026pt.
-<img/breit_sys.pdf, id=353, 168.18474pt x 85.46399pt>
+<img/breit_sys.pdf, id=416, 168.18474pt x 85.46399pt>
 File: img/breit_sys.pdf Graphic file (type pdf)
 <use img/breit_sys.pdf>
 Package pdftex.def Info: img/breit_sys.pdf  used on input line 48.
 (pdftex.def)             Requested size: 204.85802pt x 104.10681pt.
-<img/landscape.png, id=354, 293.095pt x 172.645pt>
+<img/landscape.png, id=417, 293.095pt x 172.645pt>
 File: img/landscape.png Graphic file (type png)
 <use img/landscape.png>
 Package pdftex.def Info: img/landscape.png  used on input line 67.
 (pdftex.def)             Requested size: 298.75262pt x 175.977pt.
 
 
-[13 <./img/dis.png> <./img/lab_sys.pdf> <./img/breit_sys.pdf> <./img/landscape.png>]
-<img/scaling_violation.pdf, id=496, 245.5386pt x 343.28691pt>
+[16 <./img/dis.png> <./img/lab_sys.pdf> <./img/breit_sys.pdf> <./img/landscape.png>]
+<img/scaling_violation.pdf, id=558, 245.5386pt x 343.28691pt>
 File: img/scaling_violation.pdf Graphic file (type pdf)
 <use img/scaling_violation.pdf>
 Package pdftex.def Info: img/scaling_violation.pdf  used on input line 80.
 (pdftex.def)             Requested size: 298.75262pt x 417.69368pt.
 
 
-[14 <./img/scaling_violation.pdf>]
-<img/TMD_FF.png, id=556, 241.90375pt x 209.78375pt>
+[17 <./img/scaling_violation.pdf>]
+<img/TMD_FF.png, id=618, 241.90375pt x 209.78375pt>
 File: img/TMD_FF.png Graphic file (type png)
 <use img/TMD_FF.png>
 Package pdftex.def Info: img/TMD_FF.png  used on input line 93.
 (pdftex.def)             Requested size: 213.39566pt x 185.068pt.
-<img/DVCS.png, id=557, 315.1775pt x 337.26pt>
+<img/DVCS.png, id=619, 315.1775pt x 337.26pt>
 File: img/DVCS.png Graphic file (type png)
 <use img/DVCS.png>
 Package pdftex.def Info: img/DVCS.png  used on input line 103.
 (pdftex.def)             Requested size: 213.39566pt x 228.34569pt.
-<img/vm.png, id=558, 687.56876pt x 715.67375pt>
+<img/vm.png, id=620, 687.56876pt x 715.67375pt>
 File: img/vm.png Graphic file (type png)
 <use img/vm.png>
 Package pdftex.def Info: img/vm.png  used on input line 115.
 (pdftex.def)             Requested size: 213.39566pt x 222.11865pt.
 
 
-[15 <./img/TMD_FF.png> <./img/DVCS.png>]) (./kapitoly/epic.tex
+[18 <./img/TMD_FF.png> <./img/DVCS.png>]) (./kapitoly/epic.tex
 
-[16 <./img/vm.png (PNG copy)>]
+[19 <./img/vm.png (PNG copy)>]
 Chapter 3.
-<img/ePIC_skp.png, id=572, 2402.9775pt x 1466.47874pt>
+<img/ePIC_skp.png, id=635, 2402.9775pt x 1466.47874pt>
 File: img/ePIC_skp.png Graphic file (type png)
 <use img/ePIC_skp.png>
 Package pdftex.def Info: img/ePIC_skp.png  used on input line 5.
@@ -1043,11 +1068,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 ) (./kapitoly/nhcal.tex
 
-[17
+[20
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc} <./img/ePIC_skp.png>]
 
-[18]
+[21]
 Chapter 4.
 
 Overfull \hbox (12.40848pt too wide) in paragraph at lines 4--5
@@ -1061,7 +1086,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--16
 
 
 
-[19
+[22
 
 ]
 Overfull \hbox (6.675pt too wide) in paragraph at lines 56--63
@@ -1078,41 +1103,41 @@ Overfull \hbox (6.775pt too wide) in paragraph at lines 64--70
 \OT1/cmr/m/n/12 value="1.032" unit="g/cm3" com-pos-ite n="19" ref="C" com-pos-ite n="21" ref="H"
  []
 
-<img/e+Au-phi(KK).pdf, id=598, 89.96028pt x 88.79564pt>
+<img/e+Au-phi(KK).pdf, id=661, 89.96028pt x 88.79564pt>
 File: img/e+Au-phi(KK).pdf Graphic file (type pdf)
 <use img/e+Au-phi(KK).pdf>
 Package pdftex.def Info: img/e+Au-phi(KK).pdf  used on input line 75.
 (pdftex.def)             Requested size: 194.61449pt x 192.10867pt.
-<img/K1K2matica.pdf, id=599, 97.52972pt x 92.58047pt>
+<img/K1K2matica.pdf, id=662, 97.52972pt x 92.58047pt>
 File: img/K1K2matica.pdf Graphic file (type pdf)
 <use img/K1K2matica.pdf>
 Package pdftex.def Info: img/K1K2matica.pdf  used on input line 80.
 (pdftex.def)             Requested size: 204.85802pt x 194.48967pt.
 ) (./kapitoly/work.tex
 
-[20 <./img/e+Au-phi(KK).pdf> <./img/K1K2matica.pdf>]
+[23 <./img/e+Au-phi(KK).pdf> <./img/K1K2matica.pdf>]
 Chapter 5.
-<img/averageClusters.pdf, id=786, 569.12625pt x 408.52625pt>
+<img/averageClusters.pdf, id=848, 569.12625pt x 408.52625pt>
 File: img/averageClusters.pdf Graphic file (type pdf)
 <use img/averageClusters.pdf>
 Package pdftex.def Info: img/averageClusters.pdf  used on input line 7.
 (pdftex.def)             Requested size: 256.0774pt x 183.82265pt.
-<img/combined_clusters_norot.pdf, id=787, 569.12625pt x 408.52625pt>
+<img/combined_clusters_norot.pdf, id=849, 569.12625pt x 408.52625pt>
 File: img/combined_clusters_norot.pdf Graphic file (type pdf)
 <use img/combined_clusters_norot.pdf>
 Package pdftex.def Info: img/combined_clusters_norot.pdf  used on input line 14.
 (pdftex.def)             Requested size: 256.0774pt x 183.82265pt.
 
 
-[21
+[24
 
  <./img/averageClusters.pdf, page is rotated 90 degrees>]
-<img/orig_config_clusters.pdf, id=836, 614.64862pt x 616.67621pt>
+<img/orig_config_clusters.pdf, id=898, 614.64862pt x 616.67621pt>
 File: img/orig_config_clusters.pdf Graphic file (type pdf)
 <use img/orig_config_clusters.pdf>
 Package pdftex.def Info: img/orig_config_clusters.pdf  used on input line 24.
 (pdftex.def)             Requested size: 204.85802pt x 205.52686pt.
-<img/every_rot_removed_clusters.pdf, id=837, 720.53217pt x 730.96967pt>
+<img/every_rot_removed_clusters.pdf, id=899, 720.53217pt x 730.96967pt>
 File: img/every_rot_removed_clusters.pdf Graphic file (type pdf)
 <use img/every_rot_removed_clusters.pdf>
 Package pdftex.def Info: img/every_rot_removed_clusters.pdf  used on input line 30.
@@ -1133,7 +1158,7 @@ Overfull \hbox (44.43329pt too wide) in paragraph at lines 40--41
 
 ) (./kapitoly/outro.tex
 
-[22 <./img/combined_clusters_norot.pdf, page is rotated 90 degrees> <./img/orig_config_clusters.pdf> <./img/every_rot_removed_clusters.pdf>]
+[25 <./img/combined_clusters_norot.pdf, page is rotated 90 degrees> <./img/orig_config_clusters.pdf> <./img/every_rot_removed_clusters.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1170,7 +1195,7 @@ Overfull \hbox (42.82034pt too wide) in paragraph at lines 20--22
 
 )) (./bib_ord.tex
 
-[23
+[26
 
 ]
 Underfull \hbox (badness 3690) in paragraph at lines 26--27
@@ -1184,7 +1209,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 26--27
 
 
 
-[24
+[27
 
 ]
 Underfull \hbox (badness 1178) in paragraph at lines 28--29
@@ -1193,7 +1218,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 28--29
 
 )
 
-[25] 
+[28] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./main.aux (./title.aux))
  ***********
@@ -1201,21 +1226,27 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 74244953BFDE84FAF2B05DFB68075475;6906.
+(rerunfilecheck)             Checksum: FB794FFA58190D2034C6A01DFEC20566;7647.
  ) 
 Here is how much of TeX's memory you used:
- 34184 strings out of 473190
- 693721 string characters out of 5715799
- 1113444 words of memory out of 5000000
- 56744 multiletter control sequences out of 15000+600000
- 575833 words of font info for 104 fonts, out of 8000000 for 9000
+ 34349 strings out of 473190
+ 696879 string characters out of 5715799
+ 1115679 words of memory out of 5000000
+ 56890 multiletter control sequences out of 15000+600000
+ 573865 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,93p,1076b,1176s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,93p,1497b,1176s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on main.pdf (25 pages, 6290015 bytes).
+Output written on main.pdf (28 pages, 76738435 bytes).
 PDF statistics:
- 1052 PDF objects out of 1200 (max. 8388607)
- 805 compressed objects within 9 object streams
- 112 named destinations out of 1000 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1121 PDF objects out of 1200 (max. 8388607)
+ 857 compressed objects within 9 object streams
+ 120 named destinations out of 1000 (max. 500000)
+ 566 words of extra memory for PDF output out of 10000 (max. 10000000)
 

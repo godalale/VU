@@ -51,3 +51,62 @@ Riedl, C. (2024). Vector-meson reconstruction in the ePIC backward HCal (1.0). Z
 %%%%
 
 [RHIC-Program] (cit. 24. 10. 2025) = https://arxiv.org/pdf/2504.08406
+
+%%%%
+
+[PDR] (cit. 24. 10. 2025) = https://eic.jlab.org/Documents/EIC-General/EIC_ParameterList.pdf
+
+%%%%
+
+[polA-sources] (cit. 26. 10. 2025) = https://inspirehep.net/files/a3a0d133d18f97813612de53b38b4e3f
+
+%%%%
+
+[polP-EIC] (cit. 26. 10. 2025) = https://indico.cfnssbu.physics.sunysb.edu/event/343/contributions/1482/attachments/580/916/grigor.pdf
+
+%%%%
+
+[CDR]
+
+%%%%
+
+[HERA] (cit. 27. 10. 2025) = https://www.worldscientific.com/doi/abs/10.1142/9789814436403_0015
+
+%%%%
+
+[EIC-design-highlights] (cit. 27. 10. 2025) = https://proceedings.jacow.org/ipac2024/pdf/MOPC67.pdf
+
+%%%%
+
+[EIC-new-image] (cit. 27. 10. 2025) = https://www.jlab.org/sites/default/files/eic-home/images/EICAerial_Master_Tech_Approved_2025-0905.png
+
+%%%%
+
+[EIC-scientific-beams] (cit. 27. 10. 2025) = https://arxiv.org/pdf/2510.10794v1
+
+
+%%%%
+
+[LRP2025] (cit. 27. 10. 2025) = https://science.osti.gov/~/media/np/nsac/pdf/2015LRP/2015_LRPNS_091815.pdf
+
+
+%%%%
+
+[deuteron-feasibility] (cit. 28. 10. 2025) = https://inspirehep.net/files/f05c6503c745b5afc549916e04523828
+
+%%%%
+
+[optically-pumped] (cit. 28. 10. 2025) = https://www.sciencedirect.com/science/article/pii/S0168900223004849
+
+%%%%%
+
+[MOA1] (cit. 28. 10. 2025) = https://indico.jacow.org/event/98/contributions/11579/attachments/1040/5712/MOA1_talk.pdf
+
+
+%%%%%
+
+[RHIC-to-EIC-HSR] (cit. 28. 10. 2025) = https://www.osti.gov/servlets/purl/2475969
+
+%%%%%
+
+[siberian-snakes] (cit. 28. 10. 2025) = https://iopscience.iop.org/article/10.1088/0954-3899/31/9/R01/pdf
