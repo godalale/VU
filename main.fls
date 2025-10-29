@@ -445,6 +445,12 @@ INPUT ./img/rhic.jpg
 INPUT ./img/rhic.jpg
 INPUT ./img/rhic.jpg
 INPUT ./img/rhic.jpg
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT ./img/IR.pdf
+INPUT ./img/IR.pdf
+INPUT ./img/IR.pdf
+INPUT ./img/IR.pdf
+INPUT ./img/IR.pdf
 INPUT ./img/EIC_new.png
 INPUT ./img/EIC_new.png
 INPUT ./img/EIC_new.png
@@ -455,6 +461,11 @@ INPUT ./img/luminosity2_placeholder.pdf
 INPUT ./img/luminosity2_placeholder.pdf
 INPUT ./img/luminosity2_placeholder.pdf
 INPUT ./img/luminosity2_placeholder.pdf
+INPUT ./img/tunnel.png
+INPUT ./img/tunnel.png
+INPUT ./img/tunnel.png
+INPUT ./img/tunnel.png
+INPUT ./img/tunnel.png
 INPUT ./img/crab_cavities.jpg
 INPUT ./img/crab_cavities.jpg
 INPUT ./img/crab_cavities.jpg
@@ -475,7 +486,6 @@ INPUT ./img/lab_sys.pdf
 INPUT ./img/lab_sys.pdf
 INPUT ./img/lab_sys.pdf
 INPUT ./img/lab_sys.pdf
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT ./img/breit_sys.pdf
 INPUT ./img/breit_sys.pdf
 INPUT ./img/breit_sys.pdf
@@ -610,3 +620,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb

@@ -13,21 +13,30 @@ The legacy of innovation continues with the EIC, which will also incorporate a p
 
 \begin{figure}[ht]
     \centering
-    \includegraphics[width=.3\linewidth]{img/rhic.jpg}
-    \caption{Layout of the existing RHIC facility. The "Yellow" Ring planned for reuse in the EIC is shown in yellow. Taken from [cite RHIC image].}
-    \label{fig:eic:rhic}
+    \begin{subfigure}{.25\linewidth}
+        \includegraphics[width=\linewidth]{img/rhic.jpg}
+        \caption{}
+        \label{fig:eic:rhic}
+    \end{subfigure}\hspace{.2\linewidth}
+    \begin{subfigure}{.3\linewidth}
+        \includegraphics[width=\linewidth]{img/IR.pdf}
+        \vspace{.5cm}
+        \caption{}
+        \label{fig:eic:IR}
+    \end{subfigure}
+    \caption{(a) Layout of the RHIC facility. The "Yellow" Ring planned for reuse in the EIC is shown in yellow. Taken from [cite RHIC image]. (b) PLACEHOLDER Schematic of the Interaction Regions (IR) of RHIC, consistent with the EIC.}
 \end{figure}
 
 \begin{figure}[ht]
     \centering
-    \includegraphics[width=.8\linewidth]{img/EIC_new.png}
+    \includegraphics[width=.9\linewidth]{img/EIC_new.png}
     \caption{Current design of the EIC. Taken from [cite EIC-new-image].}
     \label{fig:eic:eic}
 \end{figure}
 
 \begin{figure}[ht]
     \centering
-    \includegraphics[width=.7\linewidth]{img/luminosity2_placeholder.pdf}
+    \includegraphics[width=.85\linewidth]{img/luminosity2_placeholder.pdf}
     \caption{PLACEHOLDER Peak luminosities for different electron$\times$ion energy combinations. Taken from [cite MOA1].} % aj v eic_cdr_final.pdf na s. 18
     \label{fig:eic:lumi}
 \end{figure}
@@ -43,23 +52,32 @@ Production of negatively charged hydrogen ions in RHIC is handled by the Optical
 
 In order to fulfill the scientific plan, there is a strong need and demand for a beam of polarized neutrons. Unfortunately, as is evident, neutrons by themselves cannot be accelerated. It is necessary to resort to some charged ion that would contain the desired neutrons. The first logical step from a lone neutron would be some ion of deuterium, which contains an additional proton. A feasibility study has already been done for acceleration of polarized deuterons in the EIC, which deemed it possible [cite deuteron-feasibility]. However, the small magnetic moment of deuterium could pose a challenge for spin manipulation. That makes helions (\isotope[3]{He}) a preferred alternative, as the most abundant state of \isotope[3]{He} has the protons' spins anti-aligned, which makes the neutron practically carry the nuclear spin. Therefore, helions make for an effective spin-polarized neutron source [cite EIC-scientific-beams]. They are to be produced in the Electron Beam Ion Source (EBIS), which will also remain the particle source of choice for heavier ions for the EIC [cite optically-pumped]. Possibility of extending the polarization to heavier ions, such as \isotope[6]{Li} or \isotope[7]{Li}, is still under discussion, as it could prove beneficial for gaining new insights into quark-gluon dynamics within the nuclear medium, or even beyond [cite scientific-beams]. 
 
-\subsection{Preacceleration}
-Before entering the EIC's Hadron Storage Ring (HSR), the beam needs to undergo several steps of preacceleration. This infrastructure is to be inherited from the initial acceleration systems used by RHIC. Travelling through it, protons coming from a source get first accelerated in a Linear Accelerator (LINAC) to energy of 200 MeV, then pass through a booster synchrotron (known as Booster) with energy of 1.5 GeV, and lastly they enter the Alternating Gradient Synchrotron (AGS), from which they come out with energy of 25 GeV [cite Nagaitsev Frascati]. All of the aforementioned accelerators are shown in Figure~\ref{fig:eic:eic}.
+\subsection{Pre-acceleration}
+Before entering the EIC's Hadron Storage Ring (HSR), the beam needs to undergo several steps of preacceleration. This infrastructure is to be inherited from the initial acceleration systems used by RHIC. Travelling through it, protons coming from a source get first accelerated in a Linear Accelerator (LINAC) to energy of 200~MeV, then pass through a booster synchrotron (known as Booster) with energy of 1.5~GeV, and finally they enter the Alternating Gradient Synchrotron (AGS), from which they come out with energy of 25~GeV [cite Nagaitsev Frascati]. All of the aforementioned accelerators are shown in Figure~\ref{fig:eic:eic}.
 
 \subsection{Hadron Storage Ring}
-The reuse of the arcs of at least one of RHIC's storage rings has been a part of the design plan of the EIC since the beginning [cite CDR]. Ultimately, after assessing the tunnel and considering the requirements for accessibility, the “Yellow” ring was chosen to be kept in its entirety. Its existing arcs will live on as the HSR after removal of a number of magnets from Interaction Region 6 (IR6) and from Interaction Region 2 (IR2), due to significant modifications in these regions [cite EIC-design-highlights]. Because the EIC will use a much larger number of bunches of shorter length than RHIC, resulting in the beam current being increased by a factor of 3 [cite RHIC-to-EIC-HSR], new actively cooled beam screens will be inserted into the superconducting magnet beam pipes. These sleeves will be coated with copper to reduce electric resistivity and with a secondary layer of amorphous carbon to prevent the accumulation of electron clouds [cite scientific-beams]. 
+The reuse of the arcs of at least one of RHIC's storage rings has been a part of the design plan of the EIC since the beginning [cite CDR]. Ultimately, after assessing the tunnel and considering the requirements for accessibility, the “Yellow” ring was chosen to be kept in its entirety. Its existing arcs will live on as the HSR after removal of a number of magnets from Interaction Region 6 (IR6) and from Interaction Region 2 (IR2), due to significant modifications in these regions [cite EIC-design-highlights]. Positions of these are shown schematically in Figure~\ref{fig:eic:IR}. Because the EIC will use a much larger number of bunches of shorter length than RHIC, resulting in the beam current being increased by a factor of 3 [cite RHIC-to-EIC-HSR], new actively cooled beam screens will be inserted into the superconducting magnet beam pipes. These sleeves will be coated with copper to reduce electric resistivity and with a secondary layer of amorphous carbon to prevent the accumulation of electron clouds [cite scientific-beams]. 
 
-In order to preserve polarization of the beam, there are already two Siberian snakes\footnote{Siberian snakes are devices that rotate the spin vectors of the beam particles by \ang{180} each turn, in order to mitigate the effect of depolarizing resonances in circular accelerators [cite siberian-snakes].} present in RHIC. Additional four will be installed in the HSR - two of those coming directly from the RHIC's "Blue" ring, and two will be built from spin rotators from the same ring [cite scientific-beams].
+In order to preserve polarization of the beam, there are already two Siberian snakes\footnote{Siberian snake is a device that rotates the spin vectors of the beam particles by \ang{180} each turn, in order to mitigate the effect of depolarizing resonances in circular accelerators [cite siberian-snakes].} present in RHIC. Additional four will be installed in the HSR - two of those coming directly from the RHIC's "Blue" ring, and two will be built from spin rotators from the same ring [cite scientific-beams].
+
+The only section of RHIC's "Blue" ring to be fully reused by the EIC will serve as a low-energy bypass for hadrons. This is necessary, because unlike relativistic electrons, whose speed remains nearly constant with energy, the velocity of low-energy ions varies significantly. The bypass, which makes the circumference of the whole HSR smaller, enables the synchronization of the two beams [cite CDR].
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=\linewidth]{img/tunnel.png}
+    \caption{PLACEHOLDER Sector 1 with and without the bypass.}
+    \label{fig:eic:tunnel}
+\end{figure}
 
 %cooling :((
 
 \section{Electrons}
-Comparable to the hadron beam, also the energy of the electron beam is required to be variable. The chosen beam energies are 5 GeV, 10 GeV, and 18 GeV. In another parallel with the hadron beam, the electron beam must reach the same high levels of average polarization, that is 70\% [cite LRP2015]. 
+Comparable to the hadron beam, also the energy of the electron beam will be variable. The chosen beam energies are 5 GeV, 10 GeV, and 18 GeV. Consistent with the hadron beam, the electron beam must reach the same high levels of average polarization, that is 70\% [cite LRP2015]. 
 
-HERA polarized by Sokolov-Ternov, EIC polarized from the source [Nagaitsev:MOA1]
+\section{Particle source}
+The electron beam in the EIC will be polarized right from the source [cite polarized-electron-beams]. That is in contrast with HERA, where the electron beam polarization was achieved solely by the Sokolov-Ternov effect\footnote{Unpolarized electrons injected into a storage ring tend to become polarized over a period of time as they align their spin anti-parallel to the magnetic field, while emitting synchrotron radiation [cite sokolov-ternov].} [cite HERA]. The electrons will be produced by an inverted high voltage direct current (HVDC) gun [cite dc-gun], using a green (532 nm) laser on a multi-alkali CsK$_2$Sb photocathode [cite electron-source-laser]. 
 
-\subsection{RCS (or Pre-acceleration)}
-
+\subsection{Pre-acceleration}
 
 A beam-accumulator-ring (BAR) is then used to provide 7 nC or 28 nC bunches (depending on final beam energy) to the Rapid Cycling Synchrotron (RCS) [cite EIC-scientific-beams]. 
 
@@ -74,17 +92,3 @@ A beam-accumulator-ring (BAR) is then used to provide 7 nC or 28 nC bunches (dep
     \label{fig:eic:crab}
 \end{figure}
 
-% Compared to HERA, the EIC design implements two new critical ideas:
-% \begin{enumerate}
-%     \item Flat proton bunches at collisions (to match the electron beam dimensions) - this helps with the
-% peak luminosity.
-%     \item Continuous proton beam cooling during collisions to maintain matched beam dimensions - this
-% helps with the average luminosity.
-% \end{enumerate}
-% \emph{The SHC-related risk was identified as HIGH.
-% To mitigate this risk, we are adding an injection electron cooler for hadrons (at 25 GeV/u) to create ‘flat’ bunches. This is a proven and tested technology. We propose to remove the SHC system from the project baseline.\\}
-% [Nagaitsev Frascati]
-
-% from Strong Hadron Cooler to Low Energy Electron Cooler (Ring Electron Cooler - something else?)
-
-% The Ring Electron Cooler must be located in the IR2 of the Hadron Storage Ring (HSR)
