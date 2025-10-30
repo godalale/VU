@@ -82,7 +82,7 @@ Riedl, C. (2024). Vector-meson reconstruction in the ePIC backward HCal (1.0). Z
 
 %%%%
 
-[EIC-scientific-beams] (cit. 27. 10. 2025) = https://arxiv.org/pdf/2510.10794v1
+[EIC-scientific-beams]/[scientific-beams] (cit. 27. 10. 2025) = https://arxiv.org/pdf/2510.10794v1
 
 
 %%%%
@@ -130,3 +130,11 @@ unused [eic-tunnel-hsr] (cit. 28. 10. 2025) = https://www.bnl.gov/today/body_pic
 %%%%
 
 [electron-source-laser] (cit. 28. 10. 2025) = https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/pdf/TUP003.pdf
+
+%%%%
+
+[linac-to-bar-rcs] (cit. 29. 10. 2025) = https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/pdf/TUP061.pdf
+
+%%%%
+
+[polarized-electrons] = https://link.springer.com/book/10.1007/978-3-662-12721-6
