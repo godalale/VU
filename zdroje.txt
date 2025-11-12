@@ -23,6 +23,14 @@ Riedl, C. (2024). Vector-meson reconstruction in the ePIC backward HCal (1.0). Z
 [EIC image] = https://www.flickr.com/photos/brookhavenlab/54007751967/in/album-72157714316624996
 
 %%%%
+
+[range-zenodo] = https://zenodo.org/records/14939545
+
+%%%%
+
+[epic-skp] = https://eic.jlab.org/
+
+%%%%
 [RHIC-facts] = https://www.bnl.gov/newsroom/factsheets/files/pdf/rhic.pdf
 
 %%%%
@@ -138,3 +146,53 @@ unused [eic-tunnel-hsr] (cit. 28. 10. 2025) = https://www.bnl.gov/today/body_pic
 %%%%
 
 [polarized-electrons] = https://link.springer.com/book/10.1007/978-3-662-12721-6
+
+%%%%%
+
+[crabs] = https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.24.062001
+
+%%%%%
+
+[SVT-IB-OB] = https://www.sciencedirect.com/science/article/pii/S0168900225006072
+
+%%%%% 
+
+[SVT-Laura] = https://pos.sissa.it/448/038/pdf
+
+%%%%%
+
+[ALICE-ITS3] = https://cds.cern.ch/record/2890181
+
+%%%%
+
+[requirements] = https://eic.jlab.org/Requirements/DET.html
+
+[pfRICH] = https://indico.bnl.gov/event/26584/contributions/102778/attachments/62200/106901/dacReview_pfRICH_page_2025-06-12_v1.pdf
+
+[hpDIRC] = https://www.sciencedirect.com/science/article/pii/S0168900224000949
+
+[dRICH] = https://inspirehep.net/literature/2909021
+
+[dRICH-image] = https://indico.gsi.de/event/20387/contributions/90419/
+
+[calorimetry-Protzman] = https://indico.bnl.gov/event/27198/contributions/107096/attachments/61916/106253/Protzman_AUM2025_ePIC_Calorimetry.pdf
+
+[EEEMCal] = https://agenda.infn.it/event/43344/contributions/252114/attachments/130431/194084/EIC_EEEMCal_ePIC%20collaboration%20meeting_21-06-2025_v3.pdf
+
+[BIC] = https://indico.fnal.gov/event/67484/contributions/311377/attachments/187184/258077/BIC%20Overview%20FCC%20April16_2025.pdf
+
+[calorimetry-for-epic] = https://arxiv.org/pdf/2408.11075v1
+
+[LFHCal] = https://indico.slac.stanford.edu/event/8288/contributions/7678/attachments/3636/9951/cpad23_lfhcal.pdf
+
+[MARCO] = https://ieeexplore.ieee.org/document/11157721
+
+[CYMBAL] = https://inspirehep.net/literature/2908995
+
+[MPGD] = https://indico.phy.ornl.gov/event/510/contributions/2229/attachments/1719/3985/20241120_CPAD_Knoxville_ePIC_KG.pdf
+
+[far] = https://arxiv.org/pdf/2409.02811v1
+
+[ff-jentsch] = https://inspirehep.net/files/22ddbabbe5009656e6315e5ff5844c60
+
+[fb-kay] = https://indico.cern.ch/event/1238718/contributions/5485997/attachments/2692372/4672494/SJDK_EICUG_Det2_2023.pdf

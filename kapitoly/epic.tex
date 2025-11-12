@@ -1,40 +1,131 @@
 \chapter{ePIC Experiment}\label{cha:epic} % chktex 24
-%uviesť tým, že ePIC je pre EIC to, čo STAR pre RHIC
-\begin{figure}[H]
+The ePIC detector will be the primary experimental apparatus of the EIC. Its role at the EIC is analogous to the role of the STAR detector at RHIC. Designed as a general-purpose detector, the ePIC detector will have almost hermetic coverage and will provide precise measurements over an extensive range of pseudorapidity. The hermeticity and compactness of the detector allows for high luminosity. A CAD model of the ePIC detector is shown in Figure~\ref{fig:epic:epic}.
+
+Before continuing with this Chapter, it would probably be beneficial to define the coordinate system, which will be used onward. It is as follows: the hadron beam is defined to travel in the positive $z$ direction (where $z$ is the axis of symmetry of the detector), while the lepton beam travels in the negative $z$ direction. The $y$ axis points up and the $x$ axis points to the center of the EIC. The side from which the hadron beam comes to the Interaction Point 6 (IP6) is called the backward region, the other side of the IP6 is called the forward region. The far regions lie outside of the central detector. A coordinate system in pseudorapidity $\eta$ and polar angle $\theta$ is shown in Figure~\ref{fig:epic:range}.
+
+\begin{figure}[ht]
     \centering
-    \includegraphics[width=.9\linewidth]{img/ePIC_skp.png}
-    \caption{Modifed from \url{https://eic.jlab.org/}}
+    \includegraphics[width=.92\linewidth]{img/ePIC_skp.png}
+    \caption{CAD model of the ePIC detector. Modifed from~[cite epic-skp].}
     \label{fig:epic:epic}
 \end{figure}
 
-\section{Magnet Systems}
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.8\linewidth]{img/range.pdf}
+    \caption{Illustration of the central ePIC detector with various definitions of nomenclature. Taken from~[cite range-zenodo].}
+    \label{fig:epic:range}
+\end{figure}
 
-\section{Tracking}
+\section{Tracking and Vertexing}
+Tracking detectors are built to measure the trajectories of charged particles and to trace back their point of origin - the collision vertex. A charged particle leaves a trace in the detectors as it passes through layers of material. Along with the aid of a present magnetic field, the particle's momentum and charge may be determined based on the curvature of its trajectory. That means that tracking and vertexing detectors provide spatial and momentum-related information for event reconstruction and identification of the original particle.
+
 \subsection{Silicon Vertex Tracker}
-\subsection{MPGD}
-\subsection{AC-LGAD (ToF)}
+The Silicon Vertex Tracker (SVT) will be the innermost subsystem of the ePIC detector. It will be composed of the Inner Barrel (IB), Outer Barrel (OB), and two groups of endcap disks: Electron Endcap (EE) and Hadron Endcap (HE)~[cite SVT-Laura]. The IB, whose main role will be vertex reconstruction, will be composed of three layers of cylindrical, wafer-thin Monolithic Active Pixel Sensor (MAPS) silicon detectors from the ALICE Collaboration~[cite ALICE-ITS3]. An exploded view of the IB is shown in Figure~\ref{fig:epic:SVT-IB}, with the three layers colored green. The OB, whose main contribution will be measurement of particle momenta, will be composed of additional two layers of a modified version of these sensors called EIC Large Area Sensors (LAS). Both barrels combined cover a total active area of around 8.5~m$^2$~[cite SVT-IB-OB]. The LAS technology will also be used for the EE and the HE, each of which will consist of five separate layers~[cite SVT-Laura].
 
-\section{Particle Identification (PID)}
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.3\linewidth]{img/SVT_IB.pdf}
+    \caption{Exploded CAD view of the SVT IB. Taken from~[cite SVT-IB-OB].}
+    \label{fig:epic:SVT-IB}
+\end{figure}
+
+\subsection{MPGD trackers}
+In addition to the SVT, there will be several trackers based on the technology of Micro-Pattern Gas Detectors (MPGD). In the barrel region, one layer out from the SVT OB, the Cylindrical Micromegas Barrel Layer (CyMBaL) will be located. It will be made of a single layer of Micromegas detectors, which are in themselves made of two gas volumes separated by a metallic mesh~[cite CYMBAL]. The next layer out will be the barrel part of the Time-of-Flight detector (TOF), consisting of Capacitively Coupled Low-Gain Avalanche Diode (AC-LGAD) strip-type sensors. The outermost layer of the MPGDs will be the $\mu$RWELL-BOT (Barrel Outer Tracker) hybrid detector, which will use Gas Electron Multipliers (GEMs) for preamplification. Moving out to the endcap regions, in those will be located the $\mu$RWELL-ECT (Endcap Tracker) disks - two on each side of the IP. Last of the MPGD trackers is the AC-LGAD TOF Endcap located in the forward region~[cite MPGD]. All of the aforementioned detectors are shown in Figure~\ref{fig:epic:tracking}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.8\linewidth]{img/tracking.pdf}
+    \caption{Schematic view of all tracking detectors. Taken from~[cite MPGD].}
+    \label{fig:epic:tracking}
+\end{figure}
+
+\subsection{Magnet}
+The Magnet with renewed coils (MARCO) is the superconducting magnet for the ePIC detector. It will consist of a 3.84-meter-long solenoid with a bore diameter of 2.84 m, wound from a NbTi Rutherford in copper channel, specifically designed to withstand the mechanical loads caused by the magnetic field, which will reach nominal values of 1.7~T up to 2.0~T~[cite MARCO].
+
+
+\section{Particle Identification}
+As the name suggests, Particle Identification (PID) is the process of distinguishing among different types of particles, such as electrons from pions, kaons from protons, and so on. Detectors built for PID, which generally emit Cherenkov light, are the focus of this Section. A Cherenkov photon is emitted, when a charged particle passes through a medium with velocity higher than the speed of light in that particular medium. %cite?
+
 \subsection{pfRICH}
-\subsection{dRICH}
-\subsection{hpDIRC}
+The proximity-focused Ring-imaging Cherenkov (pfRICH) detector will serve as the detector for PID in the backward region of the ePIC detector. It shall provide $3\sigma$ \pik~separation in range of momentum from 1 GeV/$c$ up to 7 GeV/$c$~[cite requirements]. The pfRICH radiator will consist of three radial bands of 2.5 cm thick aerogel tiles, separated by opaque dividers. Aerogel was chosen for its refractive index of $n = 1.045$. Collection of the Cherenkov photons will be handled by 68 High-Rate Picosecond Photodetectors (HRPPD)~[cite pfRICH]. The pfRICH vessel will be supplied by a continuous flow of dry hydrogen to protect the aerogel~[cite requirements]. A schematic view of the pfRICH is shown in Figure~\ref{fig:epic:pfRICH}.
 
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.5\linewidth]{img/pfRICH.pdf}
+    \caption{PLACEHOLDER Schematic view of the pfRICH. Taken from~[cite pfRICH].}
+    \label{fig:epic:pfRICH}
+\end{figure}
+
+\subsection{dRICH}
+The dual-radiator Ring-Imaging Cherenkov Light Detector (dRICH) will serve as the detector for PID in the forward region. It shall provide $3\sigma$ \pik~separation in range of momentum from 3 GeV/$c$ up to 50 GeV/$c$~[cite requirements]. As its name suggests, the dRICH will use two different radiators: aerogel and hexafluoroethane (\ce{{C}_2{F}_6}) gas filling the dRICH vessel. These two have subtly different indices of refraction, that is about $n = 1.02$ or $n = 1.03$ for the former, and $n = 1.0008$ for the latter. The Cherenkov photons, after they get reflected by six spherical mirrors, will be collected by SiPMs~[cite dRICH]. An illustration of the elements of the dRICH is shown in Figure~\ref{fig:epic:dRICH}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.5\linewidth]{img/dRICH.pdf}
+    \caption{PLACEHOLDER Schematic view of the dRICH. Taken from~[cite dRICH-image].}
+    \label{fig:epic:dRICH}
+\end{figure}
+
+\subsection{hpDIRC}
+The high-performance Detector of Internally Reflected Cherenkov light (hpDIRC) will serve as the barrel detector for PID. It shall provide $3\sigma$ \pik~separation above momenta of 1 GeV/$c$~[cite requirements]. The detector will be divided into twelve optically isolated sectors, each containing two light-tight containers: a bar box and a readout box. These will surround the beamline in a twelvesided barrel. Each of these bar boxes will include a set of ten silica radiator bars, separated by air gaps. The Cherenkov photons will be reflected by mirrors, attached on one end of each of the bars, through a radiation-hard spherical lens, into a silica prism covered with photosensors~[cite hpDIRC]. A schematic view of the hpDIRC is shown in Figure~\ref{fig:epic:hpDIRC}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.5\linewidth]{img/hpDIRC.pdf}
+    \caption{Schematic view of the hpDIRC. Taken from~[cite hpDIRC].}
+    \label{fig:epic:hpDIRC}
+\end{figure}
 
 \section{Electromagnetic Calorimetry}
-\subsection{Backward Endcap}
-\subsection{Barrel}
-\subsection{Forward Endcap}
+Particles that interact electromagnetically, such as electrons and photons, initiate an electromagnetic shower of secondary particles upon entering a calorimeter. These secondary particles deposit their energy in the detector material. This proves useful for measuring the energy of the original particle as it is proportional to the collected signal from such electromagnetic calorimeter. In combination with other detector subsystems this may also be useful for identifying the original particle.
+
+\subsection{EEEMCal}
+The Electron Endcap Electromagnetic Calorimeter (EEEMCal) will serve as the electromagnetic calorimeter for the backward region. It shall identify and measure the energy of scattered electrons in low and medium $Q^2$ events, as well as identify decay electrons. It shall provide measurements for electrons of energies up to 18~GeV, pseudorapidities down to -3.5, and for events down to $Q^2 = 1$~GeV$^2$. It shall also discriminate between single photon and merged photons from $\pi^0$ decays up to energies of 18 GeV~[cite requirements]. The EEEMCal is designed as a homogenous calorimeter constructed from 2740 lead tungstate (\ce{{Pb}{W}{O}_4}, sometimes shortened to PWO) crystals. Produced light from each of these crystals will be read out by 16 SiPMs directly attached to them~[cite EEEMCal].
+
+\subsection{BIC}
+The Barrel Imaging Calorimeter (BIC) shall identify and measure the of scattered electrons in high $Q^2$ events, and, as expected, also identify decay electrons. It shall be able to perform this for energies even below 1~GeV and up to 50~GeV. It should have sufficient dynamic range to detect minimum ionizing particles (MIPs) in all its layers. Similar condition, as for the EEEMCal, applies for the ability to distinguish single and merged photons, but for the BIC it is enough to do so up to energies of only $10$~GeV~[cite requirements]. The BIC will be divided azimuthally into alternating layers (up to some radius) of monolithic CMOS sensors (AstroPix) and scintillating fibers embedded in lead absorber (Pb/SciFi). After a certain number of layer alternations, only Pb/SciFi layers will follow out to the outer radius~[cite BIC]. A view of the BIC is shown in Figure~\ref{fig:epic:BIC}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\linewidth]{img/barrelECal.png}
+    \caption{View of the BIC with zoomed in details of the AstroPix and SciFi/Pb components~[cite calorimetry-protzman].}
+    \label{fig:epic:BIC} % chktex 24
+\end{figure}
+
+\subsection{Forward EMCal}
+The Forward Electromagnetic Calorimeter (Forward EMCal) shall identify decay electrons and discriminate between a single photon and merged photons from a $\pi^0$ decay up to energies of 50~GeV~[cite requirements]. The Forward EMCal will use scintillating fibers embedded in a mixture of tungsten powder and epoxy, running in the $z$ direction. The scintillation light will be collected by SiPMs through a light guide~[cite calorimetry-for-epic].
 
 \section{Hadronic Calorimetry}
-\subsection{Backward Endcap}
-\subsection{Barrel}
-\subsection{Forward Endcap}
+Hadronic calorimeters measure the energy of strongly interacting particles, such as protons, neutron, pions. When one of these particles enters a calorimeter, it also initiates a shower of secondary particles, similarly to the one in an electromagnetic calorimeter. However, there is a difference, because now there also exist secondary hadrons in the shower, while before there were only photons and electrons. Nevertheless, this still proves to be useful for energy reconstruction. Combination of both calorimeters allows for a reconstruction of jet\footnote{Jet is a collimated cone-like shower of hadrons produced by hadronization after a high-energy collision.} energy~[cite YR]. Being the special focus of this work, the Backward Hadronic Calorimeter (nHCal) will be discussed at a later time separately, in a greater detail.
 
-\section{Far Backward Detectors}
-\subsection{Luminosity detectors}
-\subsection{Low-$Q^2$ taggers}
+\subsection{BHCal}
+The Barrel Hadronic Calorimeter (BHCal) shall provide hadron energy measurements at jet energies of up to few dozen GeV and adequately reconstruct the neutral component for hadronic jets at central rapidities. It shall also have a level of granularity in polar and azimuthal angles sufficient to resolve neutral clusters~[cite requirements]. The Outer Hadronic Calorimeter for the sPHENIX Experiment will be reused as the BHCal, but only after undergoing some modifications, such as the replacement of SiPMs and addition of individual readout channels~[cite calorimetry-protzman].
+
+\subsection{LFHCal}
+The Longitudinally-segmented Forward Hadronic Calorimeter (LFHCal) shall provide hadron energy measurements up to highest hadron energies and shall cover pseudorapidities up to 3.5, at least~[cite requirements]. The LFHCal will consist of alternating layers of steel absorber and plastic scintillators with SiPM on-tile readout~[cite LFHCal]. 
 
 \section{Far Forward Detectors}
-\subsection{Roman pots and Off-momentum detectors}
-\subsection{Zero-degree calorimeters}
+Of particular interest is the capability to study exclusive and diffractive processes provided by a set of detectors along the hadron-going beamline. These far forward detectors enable the physics program focused on partonic imaging, nuclear structure, and related topics. They allow reconstruction of both charged and neutral final-state particles using subsystems based on silicon tracking and calorimetry~[cite ff-jentsch]. All far forward subsystems are shown in Figure~\ref{fig:epic:farfar}.
 
+\subsection{B0 detector}
+The B0 system shall provide measurements of charged particles in the forward region, as well as of $\pi^0$ and of forward photons down to energies of 100~MeV. It must operate at full luminosity and withstand extreme background conditions, in particular high neutron flux~[cite requirements]. The B0 system will consist of four evenly spaced AC-LGAD silicon tracker layers and a homogenous electromagnetic calorimeter made of PWO crystals, all located within the bore of the B0 dipole magnet~[cite far].
+
+\begin{figure}[hb]
+    \centering
+    \includegraphics[width=.9\linewidth]{img/farfar.png}
+    \caption{View of the far backward and far forward detectors. Taken from Ref.~[cite far].}
+    \label{fig:epic:farfar} % chktex 24
+\end{figure}
+
+\subsection{Roman Pots}
+The Roman Pot detectors (RP) shall measure charged particles close to the beam core. Being in similar environment as the B0, they also must withstand extreme background conditions, in particular high neutron flux~[cite requirements]. The RPs are designed to detect protons from exclusive processes. Unlike in previous experiments, the ePIC's RPs will omit the protective \textit{pot}, which should extend their acceptance at low transverse momentum. The subsystem will consist of two stations two meters apart from each other, with each containing two detector planes for redundancy and background rejection. The RPs also employ AC-LGADs in order to achieve good timing resolution and high spatial resolution~[cite ff-jentsch].
+
+\subsection{Off-momentum detectors}
+The Off-Momentum detectors (OMDs) should provide measurements of charged particles with different magnetic rigidity\footnote{Magnetic rigidity is the resistance of a charged particle to being bent into a radius~$\rho$ by a given magnetic field $B$.}. Also, the same resistance requirement as for the previous FF subsystems still holds true~[cite requirements]. The OMDs follow essentially the same design principles as the RPs, but they differ in their position relative to the beampipe.
+
+\subsection{Zero-degree calorimeter}
+The Zero Degree Calorimeter (ZDC) shall provide energy measurements and identification of neutral particles (neutrons and photons) in range of polar angles from 0 mrad to 4 mrad. It also should provide a veto for charged particles~[cite requirements]. The ZDC will use both a electromagnetic and a hadronic calorimeter, both of which will follow the designs of other calorimeters from the central detector~[cite ff-jentsch].
+
+\section{Far Backward Detectors}
+The far backward region is especially important for determining luminosity, which provides the required normalization for all physics studies. It is calculated from detecting bremsstrahlung processes, whose cross-section is known precisely, by the Pair Spectrometer and Direct Photon Detector. The two Low-$Q^2$ Taggers will measure the momentum of scattered electrons with $Q^2$ below 0.1~GeV$^2$~[cite fb-kay].
